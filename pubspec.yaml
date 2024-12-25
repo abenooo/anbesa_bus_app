@@ -4,14 +4,14 @@ description: Anbessa City Bus Routes App
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.19.0 <3.0.0"
+  sdk: ">=2.19.0 <4.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  flutter_map: ^3.1.0
-  latlong2: ^0.8.1
-  http: ^0.13.5
+  flutter_map: ^5.0.0
+  latlong2: ^0.9.0
+  http: ^1.1.0
   provider: ^6.0.5
 
 dev_dependencies:
