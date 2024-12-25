@@ -1,0 +1,47 @@
+[
+  {
+    "busNumber": "A02",
+    "routeStart": "Mexico",
+    "routePassBy": "Sar Bet",
+    "routeDestination": "Jemmo 1",
+    "routeKilometers": "12.5 Km",
+    "stops": [
+      {
+        "name": "Mexico",
+        "lat": 9.0254,
+        "lng": 38.7836
+      },
+      {
+        "name": "Sar Bet (Roundabout)",
+        "lat": 9.0154,
+        "lng": 38.7736
+      },
+      {
+        "name": "Abo Mazoria",
+        "lat": 9.0054,
+        "lng": 38.7636
+      },
+      {
+        "name": "Mekanisa",
+        "lat": 8.9954,
+        "lng": 38.7536
+      },
+      {
+        "name": "German Bridge",
+        "lat": 8.9854,
+        "lng": 38.7436
+      },
+      {
+        "name": "Jemo Michael",
+        "lat": 8.9754,
+        "lng": 38.7336
+      },
+      {
+        "name": "Jemmo 1",
+        "lat": 8.9654,
+        "lng": 38.7236
+      }
+    ]
+  }
+]
+
