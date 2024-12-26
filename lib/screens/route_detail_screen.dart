@@ -25,8 +25,7 @@ class _RouteDetailScreenState extends State<RouteDetailScreen> {
 
   Future<void> _loadRoute() async {
     final points = await RoutingService.getCompleteRoute(
-      widget.route.stops.map((stop) => stop.location).toList()
-    );
+        widget.route.stops.map((stop) => stop.location).toList());
     setState(() {
       routePoints = points;
       isLoading = false;
@@ -37,7 +36,9 @@ class _RouteDetailScreenState extends State<RouteDetailScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.grey[900],
+        backgroundColor: Colors.white,
+        foregroundColor: Colors.black,
+        titleTextStyle: const TextStyle(color: Colors.black),
         leading: IconButton(
           icon: const Icon(Icons.arrow_back),
           onPressed: () => Navigator.pop(context),
@@ -55,7 +56,8 @@ class _RouteDetailScreenState extends State<RouteDetailScreen> {
                   ),
                   children: [
                     TileLayer(
-                      urlTemplate: "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                      urlTemplate:
+                          "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
                       subdomains: const ['a', 'b', 'c'],
                     ),
                     PolylineLayer(
@@ -68,15 +70,17 @@ class _RouteDetailScreenState extends State<RouteDetailScreen> {
                       ],
                     ),
                     MarkerLayer(
-                      markers: widget.route.stops.map((stop) => Marker(
-                        width: 30.0,
-                        height: 30.0,
-                        point: stop.location,
-                        builder: (ctx) => const Icon(
-                          Icons.location_on,
-                          color: Colors.green,
-                        ),
-                      )).toList(),
+                      markers: widget.route.stops
+                          .map((stop) => Marker(
+                                width: 30.0,
+                                height: 30.0,
+                                point: stop.location,
+                                builder: (ctx) => const Icon(
+                                  Icons.location_on,
+                                  color: Colors.green,
+                                ),
+                              ))
+                          .toList(),
                     ),
                   ],
                 ),
@@ -106,7 +110,8 @@ class _RouteDetailScreenState extends State<RouteDetailScreen> {
                         ),
                       ),
                       const SizedBox(height: 16),
-                      ...widget.route.stops.map((stop) => _buildStopItem(stop.name)),
+                      ...widget.route.stops
+                          .map((stop) => _buildStopItem(stop.name)),
                     ],
                   ),
                 ),
@@ -155,4 +160,3 @@ class _RouteDetailScreenState extends State<RouteDetailScreen> {
     );
   }
 }
-
