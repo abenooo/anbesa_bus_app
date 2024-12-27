@@ -1,45 +1,118 @@
 [
   {
-    "busNumber": "A02",
-    "routeStart": "Mexico",
-    "routePassBy": "Sar Bet",
-    "routeDestination": "Jemmo 1",
+    "busNumber": "67",
+    "routeStart": "Mekanisa",
+    "routePassBy": "Mexico",
+    "routeDestination": "Piassa",
     "routeKilometers": "12.5 Km",
     "stops": [
       {
-        "name": "Mexico",
-        "lat": 9.0254,
-        "lng": 38.7836
-      },
-      {
-        "name": "Sar Bet (Roundabout)",
-        "lat": 9.0154,
-        "lng": 38.7736
+        "name": "Mekanisa",
+        "lat": 8.9876,
+        "lng": 38.7246
       },
       {
         "name": "Abo Mazoria",
-        "lat": 9.0054,
-        "lng": 38.7636
+        "lat": 8.9936,
+        "lng": 38.7315
       },
       {
-        "name": "Mekanisa",
-        "lat": 8.9954,
-        "lng": 38.7536
+        "name": "Torhailoch",
+        "lat": 9.0047,
+        "lng": 38.7464
       },
       {
-        "name": "German Bridge",
-        "lat": 8.9854,
-        "lng": 38.7436
+        "name": "Mexico",
+        "lat": 9.0141,
+        "lng": 38.7622
       },
       {
-        "name": "Jemo Michael",
-        "lat": 8.9754,
-        "lng": 38.7336
+        "name": "Leghar",
+        "lat": 9.0137,
+        "lng": 38.7516
       },
       {
-        "name": "Jemmo 1",
-        "lat": 8.9654,
-        "lng": 38.7236
+        "name": "Stadium",
+        "lat": 9.0340,
+        "lng": 38.7576
+      },
+      {
+        "name": "Piassa",
+        "lat": 9.0367,
+        "lng": 38.7512
+      }
+    ]
+  },
+  {
+    "busNumber": "72",
+    "routeStart": "Megenagna",
+    "routePassBy": "Bole",
+    "routeDestination": "Merkato",
+    "routeKilometers": "15.3 Km",
+    "stops": [
+      {
+        "name": "Megenagna",
+        "lat": 9.0336,
+        "lng": 38.8016
+      },
+      {
+        "name": "Bole Medhanealem",
+        "lat": 9.0250,
+        "lng": 38.7933
+      },
+      {
+        "name": "Bole Atlas",
+        "lat": 9.0172,
+        "lng": 38.7825
+      },
+      {
+        "name": "Mexico",
+        "lat": 9.0141,
+        "lng": 38.7622
+      },
+      {
+        "name": "Stadium",
+        "lat": 9.0340,
+        "lng": 38.7576
+      },
+      {
+        "name": "Merkato",
+        "lat": 9.0384,
+        "lng": 38.7476
+      }
+    ]
+  },
+  {
+    "busNumber": "31",
+    "routeStart": "Shiromeda",
+    "routePassBy": "Arat Kilo",
+    "routeDestination": "Legehar",
+    "routeKilometers": "7.4 Km",
+    "stops": [
+      {
+        "name": "Shiromeda",
+        "lat": 9.0527,
+        "lng": 38.7745
+      },
+      {
+        "name": "Sidist Kilo",
+        "lat": 9.0478,
+        "lng": 38.7684
+      },
+      {
+        "name": "Arat Kilo",
+        "lat": 9.0428,
+        "lng": 38.7618
+      },
+      {
+        "name": "Piassa",
+        "lat": 9.0367,
+        "lng": 38.7512
+      },
+      {
+        "name": "Legehar",
+        "lat": 9.0137,
+        "lng": 38.7516
       }
     ]
   }
