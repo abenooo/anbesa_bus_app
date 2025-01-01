@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:anbessa_bus_app/models/bus_route.dart';
-import 'package:anbessa_bus_app/services/bus_route_service.dart';
-import 'package:anbessa_bus_app/screens/route_detail_screen.dart';
+import '/models/bus_route.dart';
+import '/services/bus_route_service.dart';
+import '/screens/route_detail_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);
@@ -58,36 +58,64 @@ class _HomeScreenState extends State<HomeScreen>
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: PreferredSize(
-        preferredSize: const Size.fromHeight(60),
-        child: AnimatedBuilder(
-          animation: _colorAnimation,
-          builder: (context, child) {
-            return AppBar(
-              title: Row(
+   return Scaffold(
+  appBar: PreferredSize(
+    preferredSize: const Size.fromHeight(100), // Increased height for better spacing
+    child: AnimatedBuilder(
+      animation: _colorAnimation,
+      builder: (context, child) {
+        return AppBar(
+          title: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  Image.asset(
-                    'assets/anbessa_bus_logo.png', 
-                    height: 40,
+                  Column(
+                    children: [
+                      Image.asset(
+                        'assets/anbessa_bus_logo.png',
+                        height: 40,
+                      ),
+                      const SizedBox(height: 5), // Spacing between image and label
+                      const Text(
+                        'Anbessa',
+                        style: TextStyle(
+                          color: Colors.white,
+                          fontSize: 12,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                    ],
                   ),
-                  const SizedBox(width: 10),
-                  const Text('Anbessa Bus Routes'),
+                  const SizedBox(width: 30), // Spacing between images
+                  Column(
+                    children: [
+                      Image.asset(
+                        'assets/shger_bus.png',
+                        height: 40,
+                      ),
+                      const SizedBox(height: 5), // Spacing between image and label
+                      const Text(
+                        'Sheger',
+                        style: TextStyle(
+                          color: Colors.white,
+                          fontSize: 12,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                    ],
+                  ),
                 ],
               ),
-              backgroundColor: _colorAnimation.value,
-              foregroundColor: Colors.white,
-              centerTitle: true,
-              titleTextStyle: const TextStyle(
-                color: Colors.white,
-                fontSize: 20,
-                fontWeight: FontWeight.bold,
-              ),
-            );
-          },
-        ),
-      ),
+            ],
+          ),
+          backgroundColor: _colorAnimation.value,
+          centerTitle: true,
+        );
+      },
+    ),
+  ),
       body: isLoading
           ? const Center(child: CircularProgressIndicator())
           : errorMessage.isNotEmpty

@@ -24,4 +24,5 @@ flutter:
   assets:
     - assets/bus_routes.json
     - assets/anbessa_bus_logo.png
+    - assets/shger_bus.png
 
