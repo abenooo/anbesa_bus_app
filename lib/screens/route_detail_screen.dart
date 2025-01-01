@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:latlong2/latlong.dart';
 import 'package:anbessa_bus_app/models/bus_route.dart';
-import 'dart:async';
+
 
 class RouteDetailScreen extends StatefulWidget {
   final BusRoute route;
@@ -13,25 +13,29 @@ class RouteDetailScreen extends StatefulWidget {
   _RouteDetailScreenState createState() => _RouteDetailScreenState();
 }
 
-class _RouteDetailScreenState extends State<RouteDetailScreen> with SingleTickerProviderStateMixin {
+class _RouteDetailScreenState extends State<RouteDetailScreen>
+    with SingleTickerProviderStateMixin {
   late AnimationController _animationController;
   late Animation<double> _busPositionAnimation;
   int _currentStopIndex = 0;
   final MapController _mapController = MapController();
-  bool _isBottomSheetExpanded = false;
+
 
   @override
   void initState() {
     super.initState();
     _animationController = AnimationController(
-      duration: const Duration(seconds: 10), // Changed from 30 to 10 seconds to speed up the animation
+      duration: const Duration(
+          seconds:
+              10), // Changed from 30 to 10 seconds to speed up the animation
       vsync: this,
     );
 
-    _busPositionAnimation = Tween<double>(begin: 0, end: 1).animate(_animationController)
-      ..addListener(() {
-        setState(() {});
-      });
+    _busPositionAnimation =
+        Tween<double>(begin: 0, end: 1).animate(_animationController)
+          ..addListener(() {
+            setState(() {});
+          });
 
     _animationController.repeat();
   }
@@ -154,7 +158,8 @@ class _RouteDetailScreenState extends State<RouteDetailScreen> with SingleTicker
             ),
             children: [
               TileLayer(
-                urlTemplate: "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                urlTemplate:
+                    "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
                 subdomains: const ['a', 'b', 'c'],
               ),
               PolylineLayer(
@@ -234,14 +239,14 @@ class _RouteDetailScreenState extends State<RouteDetailScreen> with SingleTicker
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
-                            Text(
+                            const Text(
                               'Route Information',
                               style: TextStyle(
                                 fontSize: 20,
                                 fontWeight: FontWeight.bold,
                               ),
                             ),
-                            SizedBox(height: 8),
+                            const SizedBox(height: 8),
                             Text(
                               'Distance: ${widget.route.routeKilometers}',
                               style: TextStyle(
@@ -281,7 +286,9 @@ class _RouteDetailScreenState extends State<RouteDetailScreen> with SingleTicker
                                       decoration: BoxDecoration(
                                         color: index == 0
                                             ? Colors.green
-                                            : index == widget.route.stops.length - 1
+                                            : index ==
+                                                    widget.route.stops.length -
+                                                        1
                                                 ? Colors.red
                                                 : Colors.blue,
                                         shape: BoxShape.circle,
@@ -304,7 +311,9 @@ class _RouteDetailScreenState extends State<RouteDetailScreen> with SingleTicker
                                           fontSize: 16,
                                           fontWeight: index == 0 ||
                                                   index ==
-                                                      widget.route.stops.length - 1
+                                                      widget.route.stops
+                                                              .length -
+                                                          1
                                               ? FontWeight.bold
                                               : FontWeight.normal,
                                         ),
@@ -334,7 +343,10 @@ class _RouteDetailScreenState extends State<RouteDetailScreen> with SingleTicker
             child: Icon(Icons.speed),
             onPressed: () {
               setState(() {
-                _animationController.duration = Duration(seconds: _animationController.duration!.inSeconds == 10 ? 30 : 10);
+                _animationController.duration = Duration(
+                    seconds: _animationController.duration!.inSeconds == 10
+                        ? 30
+                        : 10);
                 _animationController.repeat();
               });
             },
@@ -356,4 +368,3 @@ class _RouteDetailScreenState extends State<RouteDetailScreen> with SingleTicker
     );
   }
 }
-
