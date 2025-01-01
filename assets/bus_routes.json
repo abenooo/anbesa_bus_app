@@ -1,1131 +1,3909 @@
 [
-  {
-    "busNumber": "1",
-    "routeStart": "Megenagna",
-    "routePassBy": "Gurd Shola",
-    "routeDestination": "Kara",
-    "routeKilometers": "7.7 Km",
-    "stops": [
-      {"name": "Megenagna", "lat": 9.0336, "lng": 38.8016},
-      {"name": "Gurd Shola", "lat": 9.0418, "lng": 38.8112},
-      {"name": "Kara", "lat": 9.0478, "lng": 38.8226}
-    ]
-  },
-  {
-    "busNumber": "2",
-    "routeStart": "Kore Mekanisa",
-    "routePassBy": "Lideta",
-    "routeDestination": "Addis Ketema",
-    "routeKilometers": "11.1 Km",
-    "stops": [
-      {"name": "Kore Mekanisa", "lat": 8.9876, "lng": 38.7246},
-      {"name": "Lideta", "lat": 9.0141, "lng": 38.7422},
-      {"name": "Addis Ketema", "lat": 9.0384, "lng": 38.7476}
-    ]
-  },
-  {
-    "busNumber": "3",
-    "routeStart": "Ayertena",
-    "routePassBy": "Mexico",
-    "routeDestination": "Minilik Square",
-    "routeKilometers": "10.8 Km",
-    "stops": [
-      {"name": "Ayertena", "lat": 8.9936, "lng": 38.7315},
-      {"name": "Mexico", "lat": 9.0141, "lng": 38.7622},
-      {"name": "Minilik Square", "lat": 9.0367, "lng": 38.7512}
-    ]
-  },
-  {
-    "busNumber": "4",
-    "routeStart": "Kaliti",
-    "routePassBy": "Kira",
-    "routeDestination": "Merkato",
-    "routeKilometers": "19.4 Km",
-    "stops": [
-      {"name": "Kaliti", "lat": 8.9140, "lng": 38.7912},
-      {"name": "Kira", "lat": 8.9748, "lng": 38.7912},
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476}
-    ]
-  },
-  {
-    "busNumber": "5",
-    "routeStart": "Kore Mekanisa",
-    "routePassBy": "SARBET",
-    "routeDestination": "Minilik Square",
-    "routeKilometers": "12.7 Km",
-    "stops": [
-      {"name": "Kore Mekanisa", "lat": 8.9876, "lng": 38.7246},
-      {"name": "SARBET", "lat": 9.0047, "lng": 38.7464},
-      {"name": "Minilik Square", "lat": 9.0367, "lng": 38.7512}
-    ]
-  },
-  {
-    "busNumber": "6",
-    "routeStart": "Kera",
-    "routePassBy": "MEXICO",
-    "routeDestination": "Addisu Gebeya",
-    "routeKilometers": "9.9 Km",
-    "stops": [
-      {"name": "Kera", "lat": 9.0172, "lng": 38.7825},
-      {"name": "MEXICO", "lat": 9.0141, "lng": 38.7622},
-      {"name": "Addisu Gebeya", "lat": 9.0367, "lng": 38.7512}
-    ]
-  },
-  {
-    "busNumber": "7",
-    "routeStart": "Megenagna",
-    "routePassBy": "Kotebe",
-    "routeDestination": "Aleltu",
-    "routeKilometers": "49 Km",
-    "stops": [
-      {"name": "Megenagna", "lat": 9.0336, "lng": 38.8016},
-      {"name": "Kotebe", "lat": 9.0478, "lng": 38.8312},
-      {"name": "Aleltu", "lat": 9.1978, "lng": 39.1512}
-    ]
-  },
-  {
-    "busNumber": "8",
-    "routeStart": "Kechene",
-    "routePassBy": "PIYYASA",
-    "routeDestination": "Merkato",
-    "routeKilometers": "9.4 Km",
-    "stops": [
-      {"name": "Kechene", "lat": 9.0527, "lng": 38.7745},
-      {"name": "PIYYASA", "lat": 9.0367, "lng": 38.7512},
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476}
-    ]
-  },
-  {
-    "busNumber": "9",
-    "routeStart": "Birass Cilinic Bole School",
-    "routePassBy": "Kasanchiz",
-    "routeDestination": "Piazza",
-    "routeKilometers": "10.5 Km",
-    "stops": [
-      {"name": "Birass Cilinic Bole School", "lat": 9.0250, "lng": 38.7933},
-      {"name": "Kasanchiz", "lat": 9.0205, "lng": 38.7614},
-      {"name": "Piazza", "lat": 9.0367, "lng": 38.7512}
-    ]
-  },
-  {
-    "busNumber": "10",
-    "routeStart": "Kotebe Teachers Collage",
-    "routePassBy": "Kebena",
-    "routeDestination": "Piazza",
-    "routeKilometers": "12.7 Km",
-    "stops": [
-      {"name": "Kotebe Teachers Collage", "lat": 9.0478, "lng": 38.8312},
-      {"name": "Kebena", "lat": 9.0428, "lng": 38.7618},
-      {"name": "Piazza", "lat": 9.0367, "lng": 38.7512}
-    ]
-  },
-  {
-    "busNumber": "11",
-    "routeStart": "Kolfe",
-    "routePassBy": "Atkilt tera",
-    "routeDestination": "Minilik Hospital",
-    "routeKilometers": "10 Km",
-    "stops": [
-      {"name": "Kolfe", "lat": 9.0312, "lng": 38.7234},
-      {"name": "Atkilt tera", "lat": 9.0340, "lng": 38.7376},
-      {"name": "Minilik Hospital", "lat": 9.0367, "lng": 38.7512}
-    ]
-  },
-  {
-    "busNumber": "12",
-    "routeStart": "Gurara",
-    "routePassBy": "FRENCAY/KILA",
-    "routeDestination": "Merkato",
-    "routeKilometers": "9.9 Km",
-    "stops": [
-      {"name": "Gurara", "lat": 9.0527, "lng": 38.7745},
-      {"name": "FRENCAY/KILA", "lat": 9.0428, "lng": 38.7618},
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476}
-    ]
-  },
-  {
-    "busNumber": "13",
-    "routeStart": "Italy Embassy",
-    "routePassBy": "Sinima Ethipia",
-    "routeDestination": "Merkato",
-    "routeKilometers": "9.9 Km",
-    "stops": [
-      {"name": "Italy Embassy", "lat": 9.0205, "lng": 38.7614},
-      {"name": "Sinima Ethipia", "lat": 9.0280, "lng": 38.7590},
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476}
-    ]
-  },
-  {
-    "busNumber": "14",
-    "routeStart": "PIYYSA",
-    "routePassBy": "STADIUM",
-    "routeDestination": "BULBULA",
-    "routeKilometers": "12.3 Km",
-    "stops": [
-      {"name": "PIYYSA", "lat": 9.0367, "lng": 38.7512},
-      {"name": "STADIUM", "lat": 9.0340, "lng": 38.7576},
-      {"name": "BULBULA", "lat": 8.9748, "lng": 38.7912}
-    ]
-  },
-  {
-    "busNumber": "15",
-    "routeStart": "Megenagna",
-    "routePassBy": "Abuare",
-    "routeDestination": "Merkato",
-    "routeKilometers": "10.5 Km",
-    "stops": [
-      {"name": "Megenagna", "lat": 9.0336, "lng": 38.8016},
-      {"name": "Abuare", "lat": 9.0280, "lng": 38.7790},
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476}
-    ]
-  },
-  {
-    "busNumber": "16",
-    "routeStart": "Kidanemihret",
-    "routePassBy": "Afnch Ber",
-    "routeDestination": "Merkato",
-    "routeKilometers": "7.9 Km",
-    "stops": [
-      {"name": "Kidanemihret", "lat": 9.0527, "lng": 38.7745},
-      {"name": "Afnch Ber", "lat": 9.0428, "lng": 38.7618},
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476}
-    ]
-  },
-  {
-    "busNumber": "17",
-    "routeStart": "kusquam",
-    "routePassBy": "kidste Mariam",
-    "routeDestination": "Merkato",
-    "routeKilometers": "9.1 Km",
-    "stops": [
-      {"name": "kusquam", "lat": 9.0527, "lng": 38.7745},
-      {"name": "kidste Mariam", "lat": 9.0428, "lng": 38.7618},
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476}
-    ]
-  },
-  {
-    "busNumber": "18",
-    "routeStart": "keraniyo",
-    "routePassBy": "kolfe Dildy",
-    "routeDestination": "Merkato",
-    "routeKilometers": "7.3 Km",
-    "stops": [
-      {"name": "keraniyo", "lat": 9.0312, "lng": 38.7234},
-      {"name": "kolfe Dildy", "lat": 9.0340, "lng": 38.7376},
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476}
-    ]
-  },
-  {
-    "busNumber": "19",
-    "routeStart": "Asko",
-    "routePassBy": "Pawlos",
-    "routeDestination": "Piazza",
-    "routeKilometers": "12.3 Km",
-    "stops": [
-      {"name": "Asko", "lat": 9.0312, "lng": 38.7234},
-      {"name": "Pawlos", "lat": 9.0340, "lng": 38.7376},
-      {"name": "Piazza", "lat": 9.0367, "lng": 38.7512}
-    ]
-  },
-  {
-    "busNumber": "20",
-    "routeStart": "Dile Ber",
-    "routePassBy": "RUFAEL",
-    "routeDestination": "Merkato",
-    "routeKilometers": "8.6 Km",
-    "stops": [
-      {"name": "Dile Ber", "lat": 9.0527, "lng": 38.7745},
-      {"name": "RUFAEL", "lat": 9.0428, "lng": 38.7618},
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476}
-    ]
-  },
-  {
-    "busNumber": "21",
-    "routeStart": "Flidoro",
-    "routePassBy": "kolfe Dildy",
-    "routeDestination": "Merkato",
-    "routeKilometers": "8.6 Km",
-    "stops": [
-      {"name": "Flidoro", "lat": 9.0312, "lng": 38.7234},
-      {"name": "kolfe Dildy", "lat": 9.0340, "lng": 38.7376},
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476}
-    ]
-  },
-  {
-    "busNumber": "22",
-    "routeStart": "Summit/codominium/",
-    "routePassBy": "22 mazoria",
-    "routeDestination": "Legehar",
-    "routeKilometers": "12.3 Km",
-    "stops": [
-      {"name": "Summit/codominium/", "lat": 9.0478, "lng": 38.8226},
-      {"name": "22 mazoria", "lat": 9.0336, "lng": 38.8016},
-      {"name": "Legehar", "lat": 9.0137, "lng": 38.7516}
-    ]
-  },
-  {
-    "busNumber": "23",
-    "routeStart": "Lamberet",
-    "routePassBy": "Afnch Ber",
-    "routeDestination": "Merkato",
-    "routeKilometers": "12.4 Km",
-    "stops": [
-      {"name": "Lamberet", "lat": 9.0478, "lng": 38.8226},
-      {"name": "Afnch Ber", "lat": 9.0428, "lng": 38.7618},
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476}
-    ]
-  },
-  {
-    "busNumber": "24",
-    "routeStart": "Dire Sololia",
-    "routePassBy": "ASCO",
-    "routeDestination": "Merkato",
-    "routeKilometers": "15.9 Km",
-    "stops": [
-      {"name": "Dire Sololia", "lat": 9.0527, "lng": 38.7745},
-      {"name": "ASCO", "lat": 9.0312, "lng": 38.7234},
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476}
-    ]
-  },
-  {
-    "busNumber": "25",
-    "routeStart": "Legehar",
-    "routePassBy": "Gotera",
-    "routeDestination": "Akaki",
-    "routeKilometers": "19 Km",
-    "stops": [
-      {"name": "Legehar", "lat": 9.0137, "lng": 38.7516},
-      {"name": "Gotera", "lat": 8.9965, "lng": 38.7876},
-      {"name": "Akaki", "lat": 8.8784, "lng": 38.7912}
-    ]
-  },
-  {
-    "busNumber": "26",
-    "routeStart": "Merkato",
-    "routePassBy": "Coca Coal",
-    "routeDestination": "Sebeta",
-    "routeKilometers": "25.5 Km",
-    "stops": [
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476},
-      {"name": "Coca Coal", "lat": 8.9936, "lng": 38.7315},
-      {"name": "Sebeta", "lat": 8.9140, "lng": 38.6212}
-    ]
-  },
-  {
-    "busNumber": "27",
-    "routeStart": "MEXICO",
-    "routePassBy": "SARBET",
-    "routeDestination": "GELAN CONDI.",
-    "routeKilometers": "14.9 Km",
-    "stops": [
-      {"name": "MEXICO", "lat": 9.0141, "lng": 38.7622},
-      {"name": "SARBET", "lat": 9.0047, "lng": 38.7464},
-      {"name": "GELAN CONDI.", "lat": 8.8784, "lng": 38.8112}
-    ]
-  },
-  {
-    "busNumber": "28",
-    "routeStart": "Asko Sansuzi",
-    "routePassBy": "Mesalemia",
-    "routeDestination": "Merkato",
-    "routeKilometers": "11.1 Km",
-    "stops": [
-      {"name": "Asko Sansuzi", "lat": 9.0312, "lng": 38.7234},
-      {"name": "Mesalemia", "lat": 9.0340, "lng": 38.7376},
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476}
-    ]
-  },
-  {
-    "busNumber": "29",
-    "routeStart": "Addisu Sefer",
-    "routePassBy": "Teklehaimanot",
-    "routeDestination": "Merkato",
-    "routeKilometers": "12.7 Km",
-    "stops": [
-      {"name": "Addisu Sefer", "lat": 9.0312, "lng": 38.7234},
-      {"name": "Teklehaimanot", "lat": 9.0340, "lng": 38.7376},
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476}
-    ]
-  },
-  {
-    "busNumber": "30",
-    "routeStart": "MIZAN AMAN",
-    "routePassBy": "Semen Gegeya",
-    "routeDestination": "Merkato",
-    "routeKilometers": "25.5 Km",
-    "stops": [
-      {"name": "MIZAN AMAN", "lat": 8.9140, "lng": 38.7912},
-      {"name": "Semen Gegeya", "lat": 9.0047, "lng": 38.7464},
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476}
-    ]
-  },
-  {
-    "busNumber": "31",
-    "routeStart": "Legehar",
-    "routePassBy": "4 kilo",
-    "routeDestination": "Shiromeda",
-    "routeKilometers": "7.4 Km",
-    "stops": [
-      {"name": "Legehar", "lat": 9.0137, "lng": 38.7516},
-      {"name": "4 kilo", "lat": 9.0428, "lng": 38.7618},
-      {"name": "Shiromeda", "lat": 9.0527, "lng": 38.7745}
-    ]
-  },
-  {
-    "busNumber": "32",
-    "routeStart": "Hana Mariyame Kotebe",
-    "routePassBy": "22 Mazoria",
-    "routeDestination": "Legehar",
-    "routeKilometers": "10.6 Km",
-    "stops": [
-      {"name": "Hana Mariyame Kotebe", "lat": 9.0478, "lng": 38.8312},
-      {"name": "22 Mazoria", "lat": 9.0336, "lng": 38.8016},
-      {"name": "Legehar", "lat": 9.0137, "lng": 38.7516}
-    ]
-  },
-  {
-    "busNumber": "33",
-    "routeStart": "Kotebe Gebiriel",
-    "routePassBy": "Kebena",
-    "routeDestination": "4 Kilo",
-    "routeKilometers": "11.4 Km",
-    "stops": [
-      {"name": "Kotebe Gebiriel", "lat": 9.0478, "lng": 38.8312},
-      {"name": "Kebena", "lat": 9.0428, "lng": 38.7618},
-      {"name": "4 Kilo", "lat": 9.0428, "lng": 38.7618}
-    ]
-  },
-  {
-    "busNumber": "34",
-    "routeStart": "Germen Square",
-    "routePassBy": "Kera",
-    "routeDestination": "Merkato",
-    "routeKilometers": "9.8 Km",
-    "stops": [
-      {"name": "Germen Square", "lat": 9.0172, "lng": 38.7825},
-      {"name": "Kera", "lat": 9.0172, "lng": 38.7825},
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476}
-    ]
-  },
-  {
-    "busNumber": "35",
-    "routeStart": "Lebu Musica bet",
-    "routePassBy": "Lafto",
-    "routeDestination": "Merkato",
-    "routeKilometers": "15 Km",
-    "stops": [
-      {"name": "Lebu Musica bet", "lat": 8.9612, "lng": 38.7234},
-      {"name": "Lafto", "lat": 8.9936, "lng": 38.7315},
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476}
-    ]
-  },
-  {
-    "busNumber": "36",
-    "routeStart": "Kara Kore",
-    "routePassBy": "Torhailoch",
-    "routeDestination": "Legehar",
-    "routeKilometers": "11.7 Km",
-    "stops": [
-      {"name": "Kara Kore", "lat": 9.0478, "lng": 38.8226},
-      {"name": "Torhailoch", "lat": 9.0047, "lng": 38.7464},
-      {"name": "Legehar", "lat": 9.0137, "lng": 38.7516}
-    ]
-  },
-  {
-    "busNumber": "37",
-    "routeStart": "Keraniyo",
-    "routePassBy": "Mexico",
-    "routeDestination": "Mimilik Square",
-    "routeKilometers": "12 Km",
-    "stops": [
-      {"name": "Keraniyo", "lat": 9.0312, "lng": 38.7234},
-      {"name": "Mexico", "lat": 9.0141, "lng": 38.7622},
-      {"name": "Mimilik Square", "lat": 9.0367, "lng": 38.7512}
-    ]
-  },
-  {
-    "busNumber": "38",
-    "routeStart": "Lebu Musica Bete",
-    "routePassBy": "Minilik Square",
-    "routeDestination": "6 Kilo",
-    "routeKilometers": "11 Km",
-    "stops": [
-      {"name": "Lebu Musica Bete", "lat": 8.9612, "lng": 38.7234},
-      {"name": "Minilik Square", "lat": 9.0367, "lng": 38.7512},
-      {"name": "6 Kilo", "lat": 9.0428, "lng": 38.7618}
-    ]
-  },
-  {
-    "busNumber": "39",
-    "routeStart": "Bole School Medhanialem",
-    "routePassBy": "Kazanchiz",
-    "routeDestination": "Merkato",
-    "routeKilometers": "9.6 Km",
-    "stops": [
-      {"name": "Bole School Medhanialem", "lat": 9.0250, "lng": 38.7933},
-      {"name": "Kazanchiz", "lat": 9.0205, "lng": 38.7614},
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476}
-    ]
-  },
-  {
-    "busNumber": "40",
-    "routeStart": "Kara Alo",
-    "routePassBy": "4 kilo",
-    "routeDestination": "Merkato",
-    "routeKilometers": "17.9 Km",
-    "stops": [
-      {"name": "Kara Alo", "lat": 9.0478, "lng": 38.8226},
-      {"name": "4 kilo", "lat": 9.0428, "lng": 38.7618},
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476}
-    ]
-  },
-  {
-    "busNumber": "41",
-    "routeStart": "Eyesus Church",
-    "routePassBy": "4 kilo",
-    "routeDestination": "Merkato",
-    "routeKilometers": "8.5 Km",
-    "stops": [
-      {"name": "Eyesus Church", "lat": 9.0527, "lng": 38.7745},
-      {"name": "4 kilo", "lat": 9.0428, "lng": 38.7618},
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476}
-    ]
-  },
-  {
-    "busNumber": "42",
-    "routeStart": "Megenagna",
-    "routePassBy": "Bole",
-    "routeDestination": "Bole Legehare",
-    "routeKilometers": "9.8 Km",
-    "stops": [
-      {"name": "Megenagna", "lat": 9.0336, "lng": 38.8016},
-      {"name": "Bole", "lat": 9.0172, "lng": 38.7825},
-      {"name": "Bole Legehare", "lat": 9.0137, "lng": 38.7516}
-    ]
-  },
-  {
-    "busNumber": "43",
-    "routeStart": "Megenesha",
-    "routePassBy": "ASCO",
-    "routeDestination": "Merkato",
-    "routeKilometers": "30.2 Km",
-    "stops": [
-      {"name": "Megenesha", "lat": 9.0478, "lng": 38.8526},
-      {"name": "ASCO", "lat": 9.0312, "lng": 38.7234},
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476}
-    ]
-  },
-  {
-    "busNumber": "44",
-    "routeStart": "Legedadi",
-    "routePassBy": "4 kilo",
-    "routeDestination": "Merkato",
-    "routeKilometers": "30.4 Km",
-    "stops": [
-      {"name": "Legedadi", "lat": 9.0978, "lng": 38.9526},
-      {"name": "4 kilo", "lat": 9.0428, "lng": 38.7618},
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476}
-    ]
-  },
-  {
-    "busNumber": "45",
-    "routeStart": "Legehar",
-    "routePassBy": "Piazza",
-    "routeDestination": "Dilbere",
-    "routeKilometers": "8.6 Km",
-    "stops": [
-      {"name": "Legehar", "lat": 9.0137, "lng": 38.7516},
-      {"name": "Piazza", "lat": 9.0367, "lng": 38.7512},
-      {"name": "Dilbere", "lat": 9.0527, "lng": 38.7745}
-    ]
-  },
-  {
-    "busNumber": "46",
-    "routeStart": "Gergi",
-    "routePassBy": "22 mazoria",
-    "routeDestination": "4 Kilo",
-    "routeKilometers": "11.2 Km",
-    "stops": [
-      {"name": "Gergi", "lat": 9.0478, "lng": 38.8226},
-      {"name": "22 mazoria", "lat": 9.0336, "lng": 38.8016},
-      {"name": "4 Kilo", "lat": 9.0428, "lng": 38.7618}
-    ]
-  },
-  {
-    "busNumber": "47",
-    "routeStart": "Yenegew Fire School",
-    "routePassBy": "Mechael",
-    "routeDestination": "Merkato",
-    "routeKilometers": "6 Km",
-    "stops": [
-      {"name": "Yenegew Fire School", "lat": 9.0312, "lng": 38.7234},
-      {"name": "Mechael", "lat": 9.0340, "lng": 38.7376},
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476}
-    ]
-  },
-  {
-    "busNumber": "48",
-    "routeStart": "ADDISUGEBEYA",
-    "routePassBy": "PIYYSA",
-    "routeDestination": "BOLE",
-    "routeKilometers": "10.9 Km",
-    "stops": [
-      {"name": "ADDISUGEBEYA", "lat": 9.0367, "lng": 38.7512},
-      {"name": "PIYYSA", "lat": 9.0367, "lng": 38.7512},
-      {"name": "BOLE", "lat": 9.0172, "lng": 38.7825}
-    ]
-  },
-  {
-    "busNumber": "49",
-    "routeStart": "Ayat Condominium",
-    "routePassBy": "C.M.C",
-    "routeDestination": "Megenagna",
-    "routeKilometers": "8.8 Km",
-    "stops": [
-      {"name": "Ayat Condominium", "lat": 9.0478, "lng": 38.8526},
-      {"name": "C.M.C", "lat": 9.0418, "lng": 38.8312},
-      {"name": "Megenagna", "lat": 9.0336, "lng": 38.8016}
-    ]
-  },
-  {
-    "busNumber": "50",
-    "routeStart": "Ayeretena",
-    "routePassBy": "Torhailoch",
-    "routeDestination": "Megenagna",
-    "routeKilometers": "12.1 Km",
-    "stops": [
-      {"name": "Ayeretena", "lat": 8.9936, "lng": 38.7315},
-      {"name": "Torhailoch", "lat": 9.0047, "lng": 38.7464},
-      {"name": "Megenagna", "lat": 9.0336, "lng": 38.8016}
-    ]
-  },
-  {
-    "busNumber": "51",
-    "routeStart": "Betel Hosipital",
-    "routePassBy": "Zenbwork",
-    "routeDestination": "Merkato",
-    "routeKilometers": "10.9 Km",
-    "stops": [
-      {"name": "Betel Hosipital", "lat": 8.9936, "lng": 38.7315},
-      {"name": "Zenbwork", "lat": 9.0141, "lng": 38.7422},
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476}
-    ]
-  },
-  {
-    "busNumber": "52",
-    "routeStart": "Gergi",
-    "routePassBy": "Bole",
-    "routeDestination": "Merkato",
-    "routeKilometers": "14.1 Km",
-    "stops": [
-      {"name": "Gergi", "lat": 9.0478, "lng": 38.8226},
-      {"name": "Bole", "lat": 9.0172, "lng": 38.7825},
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476}
-    ]
-  },
-  {
-    "busNumber": "53",
-    "routeStart": "Bole Michael",
-    "routePassBy": "Meskel square",
-    "routeDestination": "Shiromeda",
-    "routeKilometers": "11.5 Km",
-    "stops": [
-      {"name": "Bole Michael", "lat": 9.0172, "lng": 38.7825},
-      {"name": "Meskel square", "lat": 9.0105, "lng": 38.7612},
-      {"name": "Shiromeda", "lat": 9.0527, "lng": 38.7745}
-    ]
-  },
-  {
-    "busNumber": "54",
-    "routeStart": "Lafeto",
-    "routePassBy": "Kera",
-    "routeDestination": "Leghar",
-    "routeKilometers": "9.5 Km",
-    "stops": [
-      {"name": "Lafeto", "lat": 8.9936, "lng": 38.7315},
-      {"name": "Kera", "lat": 9.0172, "lng": 38.7825},
-      {"name": "Leghar", "lat": 9.0137, "lng": 38.7516}
-    ]
-  },
-  {
-    "busNumber": "55",
-    "routeStart": "Legehar",
-    "routePassBy": "4 kilo",
-    "routeDestination": "Gurara",
-    "routeKilometers": "9.5 Km",
-    "stops": [
-      {"name": "Legehar", "lat": 9.0137, "lng": 38.7516},
-      {"name": "4 kilo", "lat": 9.0428, "lng": 38.7618},
-      {"name": "Gurara", "lat": 9.0527, "lng": 38.7745}
-    ]
-  },
-  {
-    "busNumber": "56",
-    "routeStart": "Saris Abo",
-    "routePassBy": "Meskel Square",
-    "routeDestination": "Shiromeda",
-    "routeKilometers": "14.2 Km",
-    "stops": [
-      {"name": "Saris Abo", "lat": 8.9748, "lng": 38.7912},
-      {"name": "Meskel Square", "lat": 9.0105, "lng": 38.7612},
-      {"name": "Shiromeda", "lat": 9.0527, "lng": 38.7745}
-    ]
-  },
-  {
-    "busNumber": "57",
-    "routeStart": "Kara",
-    "routePassBy": "22 Mazoria",
-    "routeDestination": "Leghar",
-    "routeKilometers": "14.4 Km",
-    "stops": [
-      {"name": "Kara", "lat": 9.0478, "lng": 38.8226},
-      {"name": "22 Mazoria", "lat": 9.0336, "lng": 38.8016},
-      {"name": "Leghar", "lat": 9.0137, "lng": 38.7516}
-    ]
-  },
-  {
-    "busNumber": "58",
-    "routeStart": "Alem Bank",
-    "routePassBy": "Torhailoch",
-    "routeDestination": "Leghar",
-    "routeKilometers": "12 Km",
-    "stops": [
-      {"name": "Alem Bank", "lat": 8.9612, "lng": 38.7234},
-      {"name": "Torhailoch", "lat": 9.0047, "lng": 38.7464},
-      {"name": "Leghar", "lat": 9.0137, "lng": 38.7516}
-    ]
-  },
-  {
-    "busNumber": "59",
-    "routeStart": "Betel Hospital",
-    "routePassBy": "Coca Cola",
-    "routeDestination": "Mililik Sqare",
-    "routeKilometers": "11.5 Km",
-    "stops": [
-      {"name": "Betel Hospital", "lat": 8.9936, "lng": 38.7315},
-      {"name": "Coca Cola", "lat": 9.0047, "lng": 38.7464},
-      {"name": "Mililik Sqare", "lat": 9.0367, "lng": 38.7512}
-    ]
-  },
-  {
-    "busNumber": "60",
-    "routeStart": "Deber Zeit",
-    "routePassBy": "Gotera",
-    "routeDestination": "Leghar",
-    "routeKilometers": "47.2 Km",
-    "stops": [
-      {"name": "Deber Zeit", "lat": 8.7565, "lng": 38.9955},
-      {"name": "Gotera", "lat": 8.9965, "lng": 38.7876},
-      {"name": "Leghar", "lat": 9.0137, "lng": 38.7516}
-    ]
-  },
-  {
-    "busNumber": "61",
-    "routeStart": "Ayat Condominium",
-    "routePassBy": "22 Mazoria",
-    "routeDestination": "Leghar Through Kasanchis",
-    "routeKilometers": "15.8 Km",
-    "stops": [
-      {"name": "Ayat Condominium", "lat": 9.0478, "lng": 38.8526},
-      {"name": "22 Mazoria", "lat": 9.0336, "lng": 38.8016},
-      {"name": "Kasanchis", "lat": 9.0205, "lng": 38.7614},
-      {"name": "Leghar", "lat": 9.0137, "lng": 38.7516}
-    ]
-  },
-  {
-    "busNumber": "62",
-    "routeStart": "Sebeta",
-    "routePassBy": "Torhailoch",
-    "routeDestination": "Leghar",
-    "routeKilometers": "23.8 Km",
-    "stops": [
-      {"name": "Sebeta", "lat": 8.9140, "lng": 38.6212},
-      {"name": "Torhailoch", "lat": 9.0047, "lng": 38.7464},
-      {"name": "Leghar", "lat": 9.0137, "lng": 38.7516}
-    ]
-  },
-  {
-    "busNumber": "63",
-    "routeStart": "Merkato",
-    "routePassBy": "Atena Tera",
-    "routeDestination": "Mikililand/Birechko fabrica",
-    "routeKilometers": "9.1 Km",
-    "stops": [
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476},
-      {"name": "Atena Tera", "lat": 9.0340, "lng": 38.7376},
-      {"name": "Mikililand/Birechko fabrica", "lat": 9.0172, "lng": 38.7825}
-    ]
-  },
-  {
-    "busNumber": "64",
-    "routeStart": "6 Kilo",
-    "routePassBy": "Kazanchiz",
-    "routeDestination": "Megenagna Gorfe Aswegaj",
-    "routeKilometers": "9.5 Km",
-    "stops": [
-      {"name": "6 Kilo", "lat": 9.0428, "lng": 38.7618},
-      {"name": "Kazanchiz", "lat": 9.0205, "lng": 38.7614},
-      {"name": "Megenagna Gorfe Aswegaj", "lat": 9.0336, "lng": 38.8016}
-    ]
-  },
-  {
-    "busNumber": "65",
-    "routeStart": "Merkato",
-    "routePassBy": "Coca cola",
-    "routeDestination": "Alem Bank",
-    "routeKilometers": "11 Km",
-    "stops": [
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476},
-      {"name": "Coca cola", "lat": 9.0047, "lng": 38.7464},
-      {"name": "Alem Bank", "lat": 8.9612, "lng": 38.7234}
-    ]
-  },
-  {
-    "busNumber": "66",
-    "routeStart": "Merkato",
-    "routePassBy": "coca cola",
-    "routeDestination": "Karakore",
-    "routeKilometers": "10.5 Km",
-    "stops": [
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476},
-      {"name": "coca cola", "lat": 9.0047, "lng": 38.7464},
-      {"name": "Karakore", "lat": 9.0478, "lng": 38.8226}
-    ]
-  },
-  {
-    "busNumber": "67",
-    "routeStart": "Mekanisa Jemo",
-    "routePassBy": "mexico",
-    "routeDestination": "Legehar",
-    "routeKilometers": "10.2 Km",
-    "stops": [
-      {"name": "Mekanisa Jemo", "lat": 8.9876, "lng": 38.7246},
-      {"name": "mexico", "lat": 9.0141, "lng": 38.7622},
-      {"name": "Legehar", "lat": 9.0137, "lng": 38.7516}
-    ]
-  },
-  {
-    "busNumber": "68",
-    "routeStart": "Torhailoche",
-    "routePassBy": "Gibi Gebriel",
-    "routeDestination": "Minlik Hospital",
-    "routeKilometers": "10.2 Km",
-    "stops": [
-      {"name": "Torhailoche", "lat": 9.0047, "lng": 38.7464},
-      {"name": "Gibi Gebriel", "lat": 9.0280, "lng": 38.7590},
-      {"name": "Minlik Hospital", "lat": 9.0367, "lng": 38.7512}
-    ]
-  },
-  {
-    "busNumber": "69",
-    "routeStart": "Philpos Church",
-    "routePassBy": "Mesalemia",
-    "routeDestination": "Merkato",
-    "routeKilometers": "5.9 Km",
-    "stops": [
-      {"name": "Philpos Church", "lat": 9.0312, "lng": 38.7234},
-      {"name": "Mesalemia", "lat": 9.0340, "lng": 38.7376},
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476}
-    ]
-  },
-  {
-    "busNumber": "70",
-    "routeStart": "AJANBO CONDI.",
-    "routePassBy": "Mexico",
-    "routeDestination": "PIYASA",
-    "routeKilometers": "11 Km",
-    "stops": [
-      {"name": "AJANBO CONDI.", "lat": 8.9748, "lng": 38.7912},
-      {"name": "Mexico", "lat": 9.0141, "lng": 38.7622},
-      {"name": "PIYASA", "lat": 9.0367, "lng": 38.7512}
-    ]
-  },
-  {
-    "busNumber": "71",
-    "routeStart": "Gerji",
-    "routePassBy": "Bole Tenatabia",
-    "routeDestination": "Balcha Hospital",
-    "routeKilometers": "11 Km",
-    "stops": [
-      {"name": "Gerji", "lat": 9.0478, "lng": 38.8226},
-      {"name": "Bole Tenatabia", "lat": 9.0172, "lng": 38.7825},
-      {"name": "Balcha Hospital", "lat": 9.0205, "lng": 38.7614}
-    ]
-  },
-  {
-    "busNumber": "72",
-    "routeStart": "Hanamariam",
-    "routePassBy": "58 kebele",
-    "routeDestination": "Saris Abo",
-    "routeKilometers": "3.8 Km",
-    "stops": [
-      {"name": "Hanamariam", "lat": 8.9748, "lng": 38.7912},
-      {"name": "58 kebele", "lat": 8.9836, "lng": 38.7876},
-      {"name": "Saris Abo", "lat": 8.9748, "lng": 38.7912}
-    ]
-  },
-  {
-    "busNumber": "73",
-    "routeStart": "Legehar",
-    "routePassBy": "Torhailoch",
-    "routeDestination": "Wingate School",
-    "routeKilometers": "10.2 Km",
-    "stops": [
-      {"name": "Legehar", "lat": 9.0137, "lng": 38.7516},
-      {"name": "Torhailoch", "lat": 9.0047, "lng": 38.7464},
-      {"name": "Wingate School", "lat": 9.0312, "lng": 38.7234}
-    ]
-  },
-  {
-    "busNumber": "74",
-    "routeStart": "C.M.C Michael",
-    "routePassBy": "Tikur Anbessa",
-    "routeDestination": "Merkato",
-    "routeKilometers": "13.3 Km",
-    "stops": [
-      {"name": "C.M.C Michael", "lat": 9.0418, "lng": 38.8312},
-      {"name": "Tikur Anbessa", "lat": 9.0280, "lng": 38.7590},
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476}
-    ]
-  },
-  {
-    "busNumber": "75",
-    "routeStart": "6 Kilo",
-    "routePassBy": "Kazanchiz",
-    "routeDestination": "Kera",
-    "routeKilometers": "10.4 Km",
-    "stops": [
-      {"name": "6 Kilo", "lat": 9.0428, "lng": 38.7618},
-      {"name": "Kazanchiz", "lat": 9.0205, "lng": 38.7614},
-      {"name": "Kera", "lat": 9.0172, "lng": 38.7825}
-    ]
-  },
-  {
-    "busNumber": "76",
-    "routeStart": "Megenagna",
-    "routePassBy": "Zerihun bulding",
-    "routeDestination": "Kaliti",
-    "routeKilometers": "18.4 Km",
-    "stops": [
-      {"name": "Megenagna", "lat": 9.0336, "lng": 38.8016},
-      {"name": "Zerihun bulding", "lat": 9.0205, "lng": 38.7614},
-      {"name": "Kaliti", "lat": 8.9140, "lng": 38.7912}
-    ]
-  },
-  {
-    "busNumber": "77",
-    "routeStart": "Ayertena",
-    "routePassBy": "Sar bet",
-    "routeDestination": "Kera",
-    "routeKilometers": "13 Km",
-    "stops": [
-      {"name": "Ayertena", "lat": 8.9936, "lng": 38.7315},
-      {"name": "Sar bet", "lat": 9.0047, "lng": 38.7464},
-      {"name": "Kera", "lat": 9.0172, "lng": 38.7825}
-    ]
-  },
-  {
-    "busNumber": "78",
-    "routeStart": "Megenagna",
-    "routePassBy": "Bherawi",
-    "routeDestination": "Gofa Condo",
-    "routeKilometers": "12.4 Km",
-    "stops": [
-      {"name": "Megenagna", "lat": 9.0336, "lng": 38.8016},
-      {"name": "Bherawi", "lat": 9.0205, "lng": 38.7614},
-      {"name": "Gofa Condo", "lat": 8.9965, "lng": 38.7876}
-    ]
-  },
-  {
-    "busNumber": "79",
-    "routeStart": "4 Kilo",
-    "routePassBy": "Signal",
-    "routeDestination": "Summit",
-    "routeKilometers": "12.7 Km",
-    "stops": [
-      {"name": "4 Kilo", "lat": 9.0428, "lng": 38.7618},
-      {"name": "Signal", "lat": 9.0280, "lng": 38.7590},
-      {"name": "Summit", "lat": 9.0478, "lng": 38.8226}
-    ]
-  },
-  {
-    "busNumber": "80",
-    "routeStart": "Semen Gebeya",
-    "routePassBy": "Kazanchiz",
-    "routeDestination": "Megenagna",
-    "routeKilometers": "12.4 Km",
-    "stops": [
-      {"name": "Semen Gebeya", "lat": 9.0047, "lng": 38.7464},
-      {"name": "Kazanchiz", "lat": 9.0205, "lng": 38.7614},
-      {"name": "Megenagna", "lat": 9.0336, "lng": 38.8016}
-    ]
-  },
-  {
-    "busNumber": "81",
-    "routeStart": "SANSUSI",
-    "routePassBy": "PIYYSA",
-    "routeDestination": "MEGENAGNA",
-    "routeKilometers": "13 Km",
-    "stops": [
-      {"name": "SANSUSI", "lat": 9.0312, "lng": 38.7234},
-      {"name": "PIYYSA", "lat": 9.0367, "lng": 38.7512},
-      {"name": "MEGENAGNA", "lat": 9.0336, "lng": 38.8016}
-    ]
-  },
-  {
-    "busNumber": "82",
-    "routeStart": "Sefera Goro",
-    "routePassBy": "24 kebele",
-    "routeDestination": "Balcha Hospital",
-    "routeKilometers": "14.6 Km",
-    "stops": [
-      {"name": "Sefera Goro", "lat": 8.9748, "lng": 38.7912},
-      {"name": "24 kebele", "lat": 9.0047, "lng": 38.7464},
-      {"name": "Balcha Hospital", "lat": 9.0205, "lng": 38.7614}
-    ]
-  },
-  {
-    "busNumber": "83",
-    "routeStart": "Ayat Condominium",
-    "routePassBy": "kebena",
-    "routeDestination": "6 Kilo",
-    "routeKilometers": "18 Km",
-    "stops": [
-      {"name": "Ayat Condominium", "lat": 9.0478, "lng": 38.8526},
-      {"name": "kebena", "lat": 9.0428, "lng": 38.7618},
-      {"name": "6 Kilo", "lat": 9.0428, "lng": 38.7618}
-    ]
-  },
-  {
-    "busNumber": "84",
-    "routeStart": "Kolfe",
-    "routePassBy": "Amanuel",
-    "routeDestination": "Legehar",
-    "routeKilometers": "9.5 Km",
-    "stops": [
-      {"name": "Kolfe", "lat": 9.0312, "lng": 38.7234},
-      {"name": "Amanuel", "lat": 9.0280, "lng": 38.7590},
-      {"name": "Legehar", "lat": 9.0137, "lng": 38.7516}
-    ]
-  },
-  {
-    "busNumber": "85",
-    "routeStart": "Merkato",
-    "routePassBy": "18 Mazoria",
-    "routeDestination": "Holeta",
-    "routeKilometers": "45 Km",
-    "stops": [
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476},
-      {"name": "18 Mazoria", "lat": 9.0141, "lng": 38.7422},
-      {"name": "Holeta", "lat": 9.0667, "lng": 38.5000}
-    ]
-  },
-  {
-    "busNumber": "86",
-    "routeStart": "Ayertena",
-    "routePassBy": "Mebrat Hail",
-    "routeDestination": "Korki Fabrica",
-    "routeKilometers": "12.3 Km",
-    "stops": [
-      {"name": "Ayertena", "lat": 8.9936, "lng": 38.7315},
-      {"name": "Mebrat Hail", "lat": 9.0047, "lng": 38.7464},
-      {"name": "Korki Fabrica", "lat": 9.0172, "lng": 38.7825}
-    ]
-  },
-  {
-    "busNumber": "87",
-    "routeStart": "Wingate college",
-    "routePassBy": "Ketena 2",
-    "routeDestination": "Ayertena",
-    "routeKilometers": "10.5 Km",
-    "stops": [
-      {"name": "Wingate college", "lat": 9.0312, "lng": 38.7234},
-      {"name": "Ketena 2", "lat": 9.0141, "lng": 38.7422},
-      {"name": "Ayertena", "lat": 8.9936, "lng": 38.7315}
-    ]
-  },
-  {
-    "busNumber": "88",
-    "routeStart": "ADDIS KETEMA",
-    "routePassBy": "Piazza",
-    "routeDestination": "Chancho",
-    "routeKilometers": "40 Km",
-    "stops": [
-      {"name": "ADDIS KETEMA", "lat": 9.0384, "lng": 38.7476},
-      {"name": "Piazza", "lat": 9.0367, "lng": 38.7512},
-      {"name": "Chancho", "lat": 9.3167, "lng": 38.7333}
-    ]
-  },
-  {
-    "busNumber": "89",
-    "routeStart": "ADDIS KETEMA",
-    "routePassBy": "4 Kilo",
-    "routeDestination": "Sendafa",
-    "routeKilometers": "44 Km",
-    "stops": [
-      {"name": "ADDIS KETEMA", "lat": 9.0384, "lng": 38.7476},
-      {"name": "4 Kilo", "lat": 9.0428, "lng": 38.7618},
-      {"name": "Sendafa", "lat": 9.1500, "lng": 39.0167}
-    ]
-  },
-  {
-    "busNumber": "90",
-    "routeStart": "Betel Hospital",
-    "routePassBy": "Torhailoch",
-    "routeDestination": "Legehar",
-    "routeKilometers": "10 Km",
-    "stops": [
-      {"name": "Betel Hospital", "lat": 8.9936, "lng": 38.7315},
-      {"name": "Torhailoch", "lat": 9.0047, "lng": 38.7464},
-      {"name": "Legehar", "lat": 9.0137, "lng": 38.7516}
-    ]
-  },
-  {
-    "busNumber": "91",
-    "routeStart": "Merkato",
-    "routePassBy": "Torhailoch",
-    "routeDestination": "Teji",
-    "routeKilometers": "52 Km",
-    "stops": [
-      {"name": "Merkato", "lat": 9.0384, "lng": 38.7476},
-      {"name": "Torhailoch", "lat": 9.0047, "lng": 38.7464},
-      {"name": "Teji", "lat": 8.8000, "lng": 38.3667}
-    ]
-  },
-  {
-    "busNumber": "92",
-    "routeStart": "Hanamariam",
-    "routePassBy": "Sar bet",
-    "routeDestination": "Balcha Hospital",
-    "routeKilometers": "9.6 Km",
-    "stops": [
-      {"name": "Hanamariam", "lat": 8.9748, "lng": 38.7912},
-      {"name": "Sar bet", "lat": 9.0047, "lng": 38.7464},
-      {"name": "Balcha Hospital", "lat": 9.0205, "lng": 38.7614}
-    ]
-  },
-  {
-    "busNumber": "93",
-    "routeStart": "Bole Bulbula",
-    "routePassBy": "Bole Airport",
-    "routeDestination": "Megenagna",
-    "routeKilometers": "15.2 Km",
-    "stops": [
-      {"name": "Bole Bulbula", "lat": 8.9748, "lng": 38.7912},
-      {"name": "Bole Airport", "lat": 8.9778, "lng": 38.7967},
-      {"name": "Megenagna", "lat": 9.0336, "lng": 38.8016}
-    ]
-  },
-  {
-    "busNumber": "94",
-    "routeStart": "Piazza",
-    "routePassBy": "Pawlos",
-    "routeDestination": "Mekililand Birchko Fabrica",
-    "routeKilometers": "9.9 Km",
-    "stops": [
-      {"name": "Piazza", "lat": 9.0367, "lng": 38.7512},
-      {"name": "Pawlos", "lat": 9.0340, "lng": 38.7376},
-      {"name": "Mekililand Birchko Fabrica", "lat": 9.0172, "lng": 38.7825}
-    ]
+    {
+        "busNumber": "A18",
+        "routeStart": "Jemmo 2",
+        "routePassBy": "Mexico",
+        "routeDestination": "Piassa",
+        "routeKilometers": "13.9 Km",
+        "stops": [
+            {
+                "name": "Jemmo 2",
+                "lat": 8.9605732,
+                "lng": 38.6878636,
+                "facilities": [
+                    "Restroom",
+                    "Ticket Kiosk",
+                    "Seating"
+                ],
+                "operationalTimes": "6:00 AM - 10:00 PM",
+                "type": "Major Terminal"
+            },
+            {
+                "name": "Jemmo 3",
+                "lat": 8.9556244,
+                "lng": 38.6985348,
+                "facilities": [
+                    "Seating",
+                    "Shelter"
+                ],
+                "operationalTimes": "6:30 AM - 9:30 PM",
+                "type": "Intermediate Stop"
+            },
+            {
+                "name": "Jemmo 1",
+                "lat": 8.9604074,
+                "lng": 38.7124284,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Jemo Michael",
+                "lat": 8.9669960,
+                "lng": 38.7209392,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "German Square",
+                "lat": 8.9655968,
+                "lng": 38.7328970,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Mekanisa",
+                "lat": 8.9733512,
+                "lng": 38.7315967,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Abo Mazoria",
+                "lat": 8.9820586,
+                "lng": 38.7345326,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Sar Bet",
+                "lat": 8.9929589,
+                "lng": 38.7383590,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Mexico",
+                "lat": 9.0088714,
+                "lng": 38.7440208,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Mexico Shebelle Hotel",
+                "lat": 9.0119916,
+                "lng": 38.7468862,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "National Theatre",
+                "lat": 9.0158768,
+                "lng": 38.7515920,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Black Lion",
+                "lat": 9.0218352,
+                "lng": 38.7521859,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Tewodros Square",
+                "lat": 9.0263826,
+                "lng": 38.7517909,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Piassa (Downtown Cafe)",
+                "lat": 9.0319356,
+                "lng": 38.7512565,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Piassa Arada",
+                "lat": 9.0354239,
+                "lng": 38.7523326,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            }
+        ]
+    },
+  {
+      "busNumber": "1",
+      "routeStart": "Megenagna",
+      "routePassBy": "Gurd Shola",
+      "routeDestination": "Kara",
+      "routeKilometers": "7.7 Km",
+      "stops": [
+          {
+              "name": "Megenagna",
+              "lat": 9.0336,
+              "lng": 38.8016,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Gurd Shola",
+              "lat": 9.0418,
+              "lng": 38.8112,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Kara",
+              "lat": 9.0478,
+              "lng": 38.8226,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "2",
+      "routeStart": "Kore Mekanisa",
+      "routePassBy": "Lideta",
+      "routeDestination": "Addis Ketema",
+      "routeKilometers": "11.1 Km",
+      "stops": [
+          {
+              "name": "Kore Mekanisa",
+              "lat": 8.9876,
+              "lng": 38.7246,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Lideta",
+              "lat": 9.0141,
+              "lng": 38.7422,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Addis Ketema",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "3",
+      "routeStart": "Ayertena",
+      "routePassBy": "Mexico",
+      "routeDestination": "Minilik Square",
+      "routeKilometers": "10.8 Km",
+      "stops": [
+          {
+              "name": "Ayertena",
+              "lat": 8.9936,
+              "lng": 38.7315,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Mexico",
+              "lat": 9.0141,
+              "lng": 38.7622,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Minilik Square",
+              "lat": 9.0367,
+              "lng": 38.7512,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "4",
+      "routeStart": "Kaliti",
+      "routePassBy": "Kira",
+      "routeDestination": "Merkato",
+      "routeKilometers": "19.4 Km",
+      "stops": [
+          {
+              "name": "Kaliti",
+              "lat": 8.914,
+              "lng": 38.7912,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Kira",
+              "lat": 8.9748,
+              "lng": 38.7912,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "5",
+      "routeStart": "Kore Mekanisa",
+      "routePassBy": "SARBET",
+      "routeDestination": "Minilik Square",
+      "routeKilometers": "12.7 Km",
+      "stops": [
+          {
+              "name": "Kore Mekanisa",
+              "lat": 8.9876,
+              "lng": 38.7246,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "SARBET",
+              "lat": 9.0047,
+              "lng": 38.7464,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Minilik Square",
+              "lat": 9.0367,
+              "lng": 38.7512,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "6",
+      "routeStart": "Kera",
+      "routePassBy": "MEXICO",
+      "routeDestination": "Addisu Gebeya",
+      "routeKilometers": "9.9 Km",
+      "stops": [
+          {
+              "name": "Kera",
+              "lat": 9.0172,
+              "lng": 38.7825,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "MEXICO",
+              "lat": 9.0141,
+              "lng": 38.7622,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Addisu Gebeya",
+              "lat": 9.0367,
+              "lng": 38.7512,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "7",
+      "routeStart": "Megenagna",
+      "routePassBy": "Kotebe",
+      "routeDestination": "Aleltu",
+      "routeKilometers": "49 Km",
+      "stops": [
+          {
+              "name": "Megenagna",
+              "lat": 9.0336,
+              "lng": 38.8016,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Kotebe",
+              "lat": 9.0478,
+              "lng": 38.8312,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Aleltu",
+              "lat": 9.1978,
+              "lng": 39.1512,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "8",
+      "routeStart": "Kechene",
+      "routePassBy": "PIYYASA",
+      "routeDestination": "Merkato",
+      "routeKilometers": "9.4 Km",
+      "stops": [
+          {
+              "name": "Kechene",
+              "lat": 9.0527,
+              "lng": 38.7745,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "PIYYASA",
+              "lat": 9.0367,
+              "lng": 38.7512,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "9",
+      "routeStart": "Birass Cilinic Bole School",
+      "routePassBy": "Kasanchiz",
+      "routeDestination": "Piazza",
+      "routeKilometers": "10.5 Km",
+      "stops": [
+          {
+              "name": "Birass Cilinic Bole School",
+              "lat": 9.025,
+              "lng": 38.7933,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Kasanchiz",
+              "lat": 9.0205,
+              "lng": 38.7614,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Piazza",
+              "lat": 9.0367,
+              "lng": 38.7512,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "10",
+      "routeStart": "Kotebe Teachers Collage",
+      "routePassBy": "Kebena",
+      "routeDestination": "Piazza",
+      "routeKilometers": "12.7 Km",
+      "stops": [
+          {
+              "name": "Kotebe Teachers Collage",
+              "lat": 9.0478,
+              "lng": 38.8312,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Kebena",
+              "lat": 9.0428,
+              "lng": 38.7618,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Piazza",
+              "lat": 9.0367,
+              "lng": 38.7512,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "11",
+      "routeStart": "Kolfe",
+      "routePassBy": "Atkilt tera",
+      "routeDestination": "Minilik Hospital",
+      "routeKilometers": "10 Km",
+      "stops": [
+          {
+              "name": "Kolfe",
+              "lat": 9.0312,
+              "lng": 38.7234,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Atkilt tera",
+              "lat": 9.034,
+              "lng": 38.7376,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Minilik Hospital",
+              "lat": 9.0367,
+              "lng": 38.7512,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "12",
+      "routeStart": "Gurara",
+      "routePassBy": "FRENCAY/KILA",
+      "routeDestination": "Merkato",
+      "routeKilometers": "9.9 Km",
+      "stops": [
+          {
+              "name": "Gurara",
+              "lat": 9.0527,
+              "lng": 38.7745,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "FRENCAY/KILA",
+              "lat": 9.0428,
+              "lng": 38.7618,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "13",
+      "routeStart": "Italy Embassy",
+      "routePassBy": "Sinima Ethipia",
+      "routeDestination": "Merkato",
+      "routeKilometers": "9.9 Km",
+      "stops": [
+          {
+              "name": "Italy Embassy",
+              "lat": 9.0205,
+              "lng": 38.7614,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Sinima Ethipia",
+              "lat": 9.028,
+              "lng": 38.759,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "14",
+      "routeStart": "PIYYSA",
+      "routePassBy": "STADIUM",
+      "routeDestination": "BULBULA",
+      "routeKilometers": "12.3 Km",
+      "stops": [
+          {
+              "name": "PIYYSA",
+              "lat": 9.0367,
+              "lng": 38.7512,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "STADIUM",
+              "lat": 9.034,
+              "lng": 38.7576,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "BULBULA",
+              "lat": 8.9748,
+              "lng": 38.7912,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "15",
+      "routeStart": "Megenagna",
+      "routePassBy": "Abuare",
+      "routeDestination": "Merkato",
+      "routeKilometers": "10.5 Km",
+      "stops": [
+          {
+              "name": "Megenagna",
+              "lat": 9.0336,
+              "lng": 38.8016,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Abuare",
+              "lat": 9.028,
+              "lng": 38.779,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "16",
+      "routeStart": "Kidanemihret",
+      "routePassBy": "Afnch Ber",
+      "routeDestination": "Merkato",
+      "routeKilometers": "7.9 Km",
+      "stops": [
+          {
+              "name": "Kidanemihret",
+              "lat": 9.0527,
+              "lng": 38.7745,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Afnch Ber",
+              "lat": 9.0428,
+              "lng": 38.7618,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "17",
+      "routeStart": "kusquam",
+      "routePassBy": "kidste Mariam",
+      "routeDestination": "Merkato",
+      "routeKilometers": "9.1 Km",
+      "stops": [
+          {
+              "name": "kusquam",
+              "lat": 9.0527,
+              "lng": 38.7745,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "kidste Mariam",
+              "lat": 9.0428,
+              "lng": 38.7618,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "18",
+      "routeStart": "keraniyo",
+      "routePassBy": "kolfe Dildy",
+      "routeDestination": "Merkato",
+      "routeKilometers": "7.3 Km",
+      "stops": [
+          {
+              "name": "keraniyo",
+              "lat": 9.0312,
+              "lng": 38.7234,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "kolfe Dildy",
+              "lat": 9.034,
+              "lng": 38.7376,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "19",
+      "routeStart": "Asko",
+      "routePassBy": "Pawlos",
+      "routeDestination": "Piazza",
+      "routeKilometers": "12.3 Km",
+      "stops": [
+          {
+              "name": "Asko",
+              "lat": 9.0312,
+              "lng": 38.7234,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Pawlos",
+              "lat": 9.034,
+              "lng": 38.7376,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Piazza",
+              "lat": 9.0367,
+              "lng": 38.7512,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "20",
+      "routeStart": "Dile Ber",
+      "routePassBy": "RUFAEL",
+      "routeDestination": "Merkato",
+      "routeKilometers": "8.6 Km",
+      "stops": [
+          {
+              "name": "Dile Ber",
+              "lat": 9.0527,
+              "lng": 38.7745,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "RUFAEL",
+              "lat": 9.0428,
+              "lng": 38.7618,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "21",
+      "routeStart": "Flidoro",
+      "routePassBy": "kolfe Dildy",
+      "routeDestination": "Merkato",
+      "routeKilometers": "8.6 Km",
+      "stops": [
+          {
+              "name": "Flidoro",
+              "lat": 9.0312,
+              "lng": 38.7234,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "kolfe Dildy",
+              "lat": 9.034,
+              "lng": 38.7376,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "22",
+      "routeStart": "Summit/codominium/",
+      "routePassBy": "22 mazoria",
+      "routeDestination": "Legehar",
+      "routeKilometers": "12.3 Km",
+      "stops": [
+          {
+              "name": "Summit/codominium/",
+              "lat": 9.0478,
+              "lng": 38.8226,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "22 mazoria",
+              "lat": 9.0336,
+              "lng": 38.8016,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Legehar",
+              "lat": 9.0137,
+              "lng": 38.7516,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "23",
+      "routeStart": "Lamberet",
+      "routePassBy": "Afnch Ber",
+      "routeDestination": "Merkato",
+      "routeKilometers": "12.4 Km",
+      "stops": [
+          {
+              "name": "Lamberet",
+              "lat": 9.0478,
+              "lng": 38.8226,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Afnch Ber",
+              "lat": 9.0428,
+              "lng": 38.7618,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "24",
+      "routeStart": "Dire Sololia",
+      "routePassBy": "ASCO",
+      "routeDestination": "Merkato",
+      "routeKilometers": "15.9 Km",
+      "stops": [
+          {
+              "name": "Dire Sololia",
+              "lat": 9.0527,
+              "lng": 38.7745,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "ASCO",
+              "lat": 9.0312,
+              "lng": 38.7234,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "25",
+      "routeStart": "Legehar",
+      "routePassBy": "Gotera",
+      "routeDestination": "Akaki",
+      "routeKilometers": "19 Km",
+      "stops": [
+          {
+              "name": "Legehar",
+              "lat": 9.0137,
+              "lng": 38.7516,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Gotera",
+              "lat": 8.9965,
+              "lng": 38.7876,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Akaki",
+              "lat": 8.8784,
+              "lng": 38.7912,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "26",
+      "routeStart": "Merkato",
+      "routePassBy": "Coca Coal",
+      "routeDestination": "Sebeta",
+      "routeKilometers": "25.5 Km",
+      "stops": [
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Coca Coal",
+              "lat": 8.9936,
+              "lng": 38.7315,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Sebeta",
+              "lat": 8.914,
+              "lng": 38.6212,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "27",
+      "routeStart": "MEXICO",
+      "routePassBy": "SARBET",
+      "routeDestination": "GELAN CONDI.",
+      "routeKilometers": "14.9 Km",
+      "stops": [
+          {
+              "name": "MEXICO",
+              "lat": 9.0141,
+              "lng": 38.7622,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "SARBET",
+              "lat": 9.0047,
+              "lng": 38.7464,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "GELAN CONDI.",
+              "lat": 8.8784,
+              "lng": 38.8112,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "28",
+      "routeStart": "Asko Sansuzi",
+      "routePassBy": "Mesalemia",
+      "routeDestination": "Merkato",
+      "routeKilometers": "11.1 Km",
+      "stops": [
+          {
+              "name": "Asko Sansuzi",
+              "lat": 9.0312,
+              "lng": 38.7234,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Mesalemia",
+              "lat": 9.034,
+              "lng": 38.7376,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "29",
+      "routeStart": "Addisu Sefer",
+      "routePassBy": "Teklehaimanot",
+      "routeDestination": "Merkato",
+      "routeKilometers": "12.7 Km",
+      "stops": [
+          {
+              "name": "Addisu Sefer",
+              "lat": 9.0312,
+              "lng": 38.7234,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Teklehaimanot",
+              "lat": 9.034,
+              "lng": 38.7376,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "30",
+      "routeStart": "MIZAN AMAN",
+      "routePassBy": "Semen Gegeya",
+      "routeDestination": "Merkato",
+      "routeKilometers": "25.5 Km",
+      "stops": [
+          {
+              "name": "MIZAN AMAN",
+              "lat": 8.914,
+              "lng": 38.7912,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Semen Gegeya",
+              "lat": 9.0047,
+              "lng": 38.7464,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "31",
+      "routeStart": "Legehar",
+      "routePassBy": "4 kilo",
+      "routeDestination": "Shiromeda",
+      "routeKilometers": "7.4 Km",
+      "stops": [
+          {
+              "name": "Legehar",
+              "lat": 9.0137,
+              "lng": 38.7516,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "4 kilo",
+              "lat": 9.0428,
+              "lng": 38.7618,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Shiromeda",
+              "lat": 9.0527,
+              "lng": 38.7745,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "32",
+      "routeStart": "Hana Mariyame Kotebe",
+      "routePassBy": "22 Mazoria",
+      "routeDestination": "Legehar",
+      "routeKilometers": "10.6 Km",
+      "stops": [
+          {
+              "name": "Hana Mariyame Kotebe",
+              "lat": 9.0478,
+              "lng": 38.8312,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "22 Mazoria",
+              "lat": 9.0336,
+              "lng": 38.8016,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Legehar",
+              "lat": 9.0137,
+              "lng": 38.7516,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "33",
+      "routeStart": "Kotebe Gebiriel",
+      "routePassBy": "Kebena",
+      "routeDestination": "4 Kilo",
+      "routeKilometers": "11.4 Km",
+      "stops": [
+          {
+              "name": "Kotebe Gebiriel",
+              "lat": 9.0478,
+              "lng": 38.8312,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Kebena",
+              "lat": 9.0428,
+              "lng": 38.7618,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "4 Kilo",
+              "lat": 9.0428,
+              "lng": 38.7618,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "34",
+      "routeStart": "Germen Square",
+      "routePassBy": "Kera",
+      "routeDestination": "Merkato",
+      "routeKilometers": "9.8 Km",
+      "stops": [
+          {
+              "name": "Germen Square",
+              "lat": 9.0172,
+              "lng": 38.7825,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Kera",
+              "lat": 9.0172,
+              "lng": 38.7825,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "35",
+      "routeStart": "Lebu Musica bet",
+      "routePassBy": "Lafto",
+      "routeDestination": "Merkato",
+      "routeKilometers": "15 Km",
+      "stops": [
+          {
+              "name": "Lebu Musica bet",
+              "lat": 8.9612,
+              "lng": 38.7234,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Lafto",
+              "lat": 8.9936,
+              "lng": 38.7315,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "36",
+      "routeStart": "Kara Kore",
+      "routePassBy": "Torhailoch",
+      "routeDestination": "Legehar",
+      "routeKilometers": "11.7 Km",
+      "stops": [
+          {
+              "name": "Kara Kore",
+              "lat": 9.0478,
+              "lng": 38.8226,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Torhailoch",
+              "lat": 9.0047,
+              "lng": 38.7464,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Legehar",
+              "lat": 9.0137,
+              "lng": 38.7516,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "37",
+      "routeStart": "Keraniyo",
+      "routePassBy": "Mexico",
+      "routeDestination": "Mimilik Square",
+      "routeKilometers": "12 Km",
+      "stops": [
+          {
+              "name": "Keraniyo",
+              "lat": 9.0312,
+              "lng": 38.7234,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Mexico",
+              "lat": 9.0141,
+              "lng": 38.7622,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Mimilik Square",
+              "lat": 9.0367,
+              "lng": 38.7512,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "38",
+      "routeStart": "Lebu Musica Bete",
+      "routePassBy": "Minilik Square",
+      "routeDestination": "6 Kilo",
+      "routeKilometers": "11 Km",
+      "stops": [
+          {
+              "name": "Lebu Musica Bete",
+              "lat": 8.9612,
+              "lng": 38.7234,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Minilik Square",
+              "lat": 9.0367,
+              "lng": 38.7512,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "6 Kilo",
+              "lat": 9.0428,
+              "lng": 38.7618,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "39",
+      "routeStart": "Bole School Medhanialem",
+      "routePassBy": "Kazanchiz",
+      "routeDestination": "Merkato",
+      "routeKilometers": "9.6 Km",
+      "stops": [
+          {
+              "name": "Bole School Medhanialem",
+              "lat": 9.025,
+              "lng": 38.7933,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Kazanchiz",
+              "lat": 9.0205,
+              "lng": 38.7614,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "40",
+      "routeStart": "Kara Alo",
+      "routePassBy": "4 kilo",
+      "routeDestination": "Merkato",
+      "routeKilometers": "17.9 Km",
+      "stops": [
+          {
+              "name": "Kara Alo",
+              "lat": 9.0478,
+              "lng": 38.8226,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "4 kilo",
+              "lat": 9.0428,
+              "lng": 38.7618,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "41",
+      "routeStart": "Eyesus Church",
+      "routePassBy": "4 kilo",
+      "routeDestination": "Merkato",
+      "routeKilometers": "8.5 Km",
+      "stops": [
+          {
+              "name": "Eyesus Church",
+              "lat": 9.0527,
+              "lng": 38.7745,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "4 kilo",
+              "lat": 9.0428,
+              "lng": 38.7618,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "42",
+      "routeStart": "Megenagna",
+      "routePassBy": "Bole",
+      "routeDestination": "Bole Legehare",
+      "routeKilometers": "9.8 Km",
+      "stops": [
+          {
+              "name": "Megenagna",
+              "lat": 9.0336,
+              "lng": 38.8016,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Bole",
+              "lat": 9.0172,
+              "lng": 38.7825,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Bole Legehare",
+              "lat": 9.0137,
+              "lng": 38.7516,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "43",
+      "routeStart": "Megenesha",
+      "routePassBy": "ASCO",
+      "routeDestination": "Merkato",
+      "routeKilometers": "30.2 Km",
+      "stops": [
+          {
+              "name": "Megenesha",
+              "lat": 9.0478,
+              "lng": 38.8526,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "ASCO",
+              "lat": 9.0312,
+              "lng": 38.7234,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "44",
+      "routeStart": "Legedadi",
+      "routePassBy": "4 kilo",
+      "routeDestination": "Merkato",
+      "routeKilometers": "30.4 Km",
+      "stops": [
+          {
+              "name": "Legedadi",
+              "lat": 9.0978,
+              "lng": 38.9526,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "4 kilo",
+              "lat": 9.0428,
+              "lng": 38.7618,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "45",
+      "routeStart": "Legehar",
+      "routePassBy": "Piazza",
+      "routeDestination": "Dilbere",
+      "routeKilometers": "8.6 Km",
+      "stops": [
+          {
+              "name": "Legehar",
+              "lat": 9.0137,
+              "lng": 38.7516,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Piazza",
+              "lat": 9.0367,
+              "lng": 38.7512,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Dilbere",
+              "lat": 9.0527,
+              "lng": 38.7745,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "46",
+      "routeStart": "Gergi",
+      "routePassBy": "22 mazoria",
+      "routeDestination": "4 Kilo",
+      "routeKilometers": "11.2 Km",
+      "stops": [
+          {
+              "name": "Gergi",
+              "lat": 9.0478,
+              "lng": 38.8226,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "22 mazoria",
+              "lat": 9.0336,
+              "lng": 38.8016,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "4 Kilo",
+              "lat": 9.0428,
+              "lng": 38.7618,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "47",
+      "routeStart": "Yenegew Fire School",
+      "routePassBy": "Mechael",
+      "routeDestination": "Merkato",
+      "routeKilometers": "6 Km",
+      "stops": [
+          {
+              "name": "Yenegew Fire School",
+              "lat": 9.0312,
+              "lng": 38.7234,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Mechael",
+              "lat": 9.034,
+              "lng": 38.7376,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "48",
+      "routeStart": "ADDISUGEBEYA",
+      "routePassBy": "PIYYSA",
+      "routeDestination": "BOLE",
+      "routeKilometers": "10.9 Km",
+      "stops": [
+          {
+              "name": "ADDISUGEBEYA",
+              "lat": 9.0367,
+              "lng": 38.7512,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "PIYYSA",
+              "lat": 9.0367,
+              "lng": 38.7512,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "BOLE",
+              "lat": 9.0172,
+              "lng": 38.7825,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "49",
+      "routeStart": "Ayat Condominium",
+      "routePassBy": "C.M.C",
+      "routeDestination": "Megenagna",
+      "routeKilometers": "8.8 Km",
+      "stops": [
+          {
+              "name": "Ayat Condominium",
+              "lat": 9.0478,
+              "lng": 38.8526,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "C.M.C",
+              "lat": 9.0418,
+              "lng": 38.8312,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Megenagna",
+              "lat": 9.0336,
+              "lng": 38.8016,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "50",
+      "routeStart": "Ayeretena",
+      "routePassBy": "Torhailoch",
+      "routeDestination": "Megenagna",
+      "routeKilometers": "12.1 Km",
+      "stops": [
+          {
+              "name": "Ayeretena",
+              "lat": 8.9936,
+              "lng": 38.7315,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Torhailoch",
+              "lat": 9.0047,
+              "lng": 38.7464,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Megenagna",
+              "lat": 9.0336,
+              "lng": 38.8016,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "51",
+      "routeStart": "Betel Hosipital",
+      "routePassBy": "Zenbwork",
+      "routeDestination": "Merkato",
+      "routeKilometers": "10.9 Km",
+      "stops": [
+          {
+              "name": "Betel Hosipital",
+              "lat": 8.9936,
+              "lng": 38.7315,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Zenbwork",
+              "lat": 9.0141,
+              "lng": 38.7422,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "52",
+      "routeStart": "Gergi",
+      "routePassBy": "Bole",
+      "routeDestination": "Merkato",
+      "routeKilometers": "14.1 Km",
+      "stops": [
+          {
+              "name": "Gergi",
+              "lat": 9.0478,
+              "lng": 38.8226,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Bole",
+              "lat": 9.0172,
+              "lng": 38.7825,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "53",
+      "routeStart": "Bole Michael",
+      "routePassBy": "Meskel square",
+      "routeDestination": "Shiromeda",
+      "routeKilometers": "11.5 Km",
+      "stops": [
+          {
+              "name": "Bole Michael",
+              "lat": 9.0172,
+              "lng": 38.7825,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Meskel square",
+              "lat": 9.0105,
+              "lng": 38.7612,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Shiromeda",
+              "lat": 9.0527,
+              "lng": 38.7745,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "54",
+      "routeStart": "Lafeto",
+      "routePassBy": "Kera",
+      "routeDestination": "Leghar",
+      "routeKilometers": "9.5 Km",
+      "stops": [
+          {
+              "name": "Lafeto",
+              "lat": 8.9936,
+              "lng": 38.7315,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Kera",
+              "lat": 9.0172,
+              "lng": 38.7825,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Leghar",
+              "lat": 9.0137,
+              "lng": 38.7516,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "55",
+      "routeStart": "Legehar",
+      "routePassBy": "4 kilo",
+      "routeDestination": "Gurara",
+      "routeKilometers": "9.5 Km",
+      "stops": [
+          {
+              "name": "Legehar",
+              "lat": 9.0137,
+              "lng": 38.7516,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "4 kilo",
+              "lat": 9.0428,
+              "lng": 38.7618,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Gurara",
+              "lat": 9.0527,
+              "lng": 38.7745,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "56",
+      "routeStart": "Saris Abo",
+      "routePassBy": "Meskel Square",
+      "routeDestination": "Shiromeda",
+      "routeKilometers": "14.2 Km",
+      "stops": [
+          {
+              "name": "Saris Abo",
+              "lat": 8.9748,
+              "lng": 38.7912,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Meskel Square",
+              "lat": 9.0105,
+              "lng": 38.7612,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Shiromeda",
+              "lat": 9.0527,
+              "lng": 38.7745,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "57",
+      "routeStart": "Kara",
+      "routePassBy": "22 Mazoria",
+      "routeDestination": "Leghar",
+      "routeKilometers": "14.4 Km",
+      "stops": [
+          {
+              "name": "Kara",
+              "lat": 9.0478,
+              "lng": 38.8226,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "22 Mazoria",
+              "lat": 9.0336,
+              "lng": 38.8016,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Leghar",
+              "lat": 9.0137,
+              "lng": 38.7516,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "58",
+      "routeStart": "Alem Bank",
+      "routePassBy": "Torhailoch",
+      "routeDestination": "Leghar",
+      "routeKilometers": "12 Km",
+      "stops": [
+          {
+              "name": "Alem Bank",
+              "lat": 8.9612,
+              "lng": 38.7234,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Torhailoch",
+              "lat": 9.0047,
+              "lng": 38.7464,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Leghar",
+              "lat": 9.0137,
+              "lng": 38.7516,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "59",
+      "routeStart": "Betel Hospital",
+      "routePassBy": "Coca Cola",
+      "routeDestination": "Mililik Sqare",
+      "routeKilometers": "11.5 Km",
+      "stops": [
+          {
+              "name": "Betel Hospital",
+              "lat": 8.9936,
+              "lng": 38.7315,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Coca Cola",
+              "lat": 9.0047,
+              "lng": 38.7464,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Mililik Sqare",
+              "lat": 9.0367,
+              "lng": 38.7512,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "60",
+      "routeStart": "Deber Zeit",
+      "routePassBy": "Gotera",
+      "routeDestination": "Leghar",
+      "routeKilometers": "47.2 Km",
+      "stops": [
+          {
+              "name": "Deber Zeit",
+              "lat": 8.7565,
+              "lng": 38.9955,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Gotera",
+              "lat": 8.9965,
+              "lng": 38.7876,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Leghar",
+              "lat": 9.0137,
+              "lng": 38.7516,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "61",
+      "routeStart": "Ayat Condominium",
+      "routePassBy": "22 Mazoria",
+      "routeDestination": "Leghar Through Kasanchis",
+      "routeKilometers": "15.8 Km",
+      "stops": [
+          {
+              "name": "Ayat Condominium",
+              "lat": 9.0478,
+              "lng": 38.8526,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "22 Mazoria",
+              "lat": 9.0336,
+              "lng": 38.8016,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Kasanchis",
+              "lat": 9.0205,
+              "lng": 38.7614,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Leghar",
+              "lat": 9.0137,
+              "lng": 38.7516,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "62",
+      "routeStart": "Sebeta",
+      "routePassBy": "Torhailoch",
+      "routeDestination": "Leghar",
+      "routeKilometers": "23.8 Km",
+      "stops": [
+          {
+              "name": "Sebeta",
+              "lat": 8.914,
+              "lng": 38.6212,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Torhailoch",
+              "lat": 9.0047,
+              "lng": 38.7464,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Leghar",
+              "lat": 9.0137,
+              "lng": 38.7516,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "63",
+      "routeStart": "Merkato",
+      "routePassBy": "Atena Tera",
+      "routeDestination": "Mikililand/Birechko fabrica",
+      "routeKilometers": "9.1 Km",
+      "stops": [
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Atena Tera",
+              "lat": 9.034,
+              "lng": 38.7376,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Mikililand/Birechko fabrica",
+              "lat": 9.0172,
+              "lng": 38.7825,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "64",
+      "routeStart": "6 Kilo",
+      "routePassBy": "Kazanchiz",
+      "routeDestination": "Megenagna Gorfe Aswegaj",
+      "routeKilometers": "9.5 Km",
+      "stops": [
+          {
+              "name": "6 Kilo",
+              "lat": 9.0428,
+              "lng": 38.7618,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Kazanchiz",
+              "lat": 9.0205,
+              "lng": 38.7614,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Megenagna Gorfe Aswegaj",
+              "lat": 9.0336,
+              "lng": 38.8016,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "65",
+      "routeStart": "Merkato",
+      "routePassBy": "Coca cola",
+      "routeDestination": "Alem Bank",
+      "routeKilometers": "11 Km",
+      "stops": [
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Coca cola",
+              "lat": 9.0047,
+              "lng": 38.7464,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Alem Bank",
+              "lat": 8.9612,
+              "lng": 38.7234,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "66",
+      "routeStart": "Merkato",
+      "routePassBy": "coca cola",
+      "routeDestination": "Karakore",
+      "routeKilometers": "10.5 Km",
+      "stops": [
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "coca cola",
+              "lat": 9.0047,
+              "lng": 38.7464,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Karakore",
+              "lat": 9.0478,
+              "lng": 38.8226,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "67",
+      "routeStart": "Mekanisa Jemo",
+      "routePassBy": "mexico",
+      "routeDestination": "Legehar",
+      "routeKilometers": "10.2 Km",
+      "stops": [
+          {
+              "name": "Mekanisa Jemo",
+              "lat": 8.9876,
+              "lng": 38.7246,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "mexico",
+              "lat": 9.0141,
+              "lng": 38.7622,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Legehar",
+              "lat": 9.0137,
+              "lng": 38.7516,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "68",
+      "routeStart": "Torhailoche",
+      "routePassBy": "Gibi Gebriel",
+      "routeDestination": "Minlik Hospital",
+      "routeKilometers": "10.2 Km",
+      "stops": [
+          {
+              "name": "Torhailoche",
+              "lat": 9.0047,
+              "lng": 38.7464,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Gibi Gebriel",
+              "lat": 9.028,
+              "lng": 38.759,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Minlik Hospital",
+              "lat": 9.0367,
+              "lng": 38.7512,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "69",
+      "routeStart": "Philpos Church",
+      "routePassBy": "Mesalemia",
+      "routeDestination": "Merkato",
+      "routeKilometers": "5.9 Km",
+      "stops": [
+          {
+              "name": "Philpos Church",
+              "lat": 9.0312,
+              "lng": 38.7234,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Mesalemia",
+              "lat": 9.034,
+              "lng": 38.7376,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "70",
+      "routeStart": "AJANBO CONDI.",
+      "routePassBy": "Mexico",
+      "routeDestination": "PIYASA",
+      "routeKilometers": "11 Km",
+      "stops": [
+          {
+              "name": "AJANBO CONDI.",
+              "lat": 8.9748,
+              "lng": 38.7912,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Mexico",
+              "lat": 9.0141,
+              "lng": 38.7622,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "PIYASA",
+              "lat": 9.0367,
+              "lng": 38.7512,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "71",
+      "routeStart": "Gerji",
+      "routePassBy": "Bole Tenatabia",
+      "routeDestination": "Balcha Hospital",
+      "routeKilometers": "11 Km",
+      "stops": [
+          {
+              "name": "Gerji",
+              "lat": 9.0478,
+              "lng": 38.8226,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Bole Tenatabia",
+              "lat": 9.0172,
+              "lng": 38.7825,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Balcha Hospital",
+              "lat": 9.0205,
+              "lng": 38.7614,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "72",
+      "routeStart": "Hanamariam",
+      "routePassBy": "58 kebele",
+      "routeDestination": "Saris Abo",
+      "routeKilometers": "3.8 Km",
+      "stops": [
+          {
+              "name": "Hanamariam",
+              "lat": 8.9748,
+              "lng": 38.7912,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "58 kebele",
+              "lat": 8.9836,
+              "lng": 38.7876,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Saris Abo",
+              "lat": 8.9748,
+              "lng": 38.7912,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "73",
+      "routeStart": "Legehar",
+      "routePassBy": "Torhailoch",
+      "routeDestination": "Wingate School",
+      "routeKilometers": "10.2 Km",
+      "stops": [
+          {
+              "name": "Legehar",
+              "lat": 9.0137,
+              "lng": 38.7516,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Torhailoch",
+              "lat": 9.0047,
+              "lng": 38.7464,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Wingate School",
+              "lat": 9.0312,
+              "lng": 38.7234,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "74",
+      "routeStart": "C.M.C Michael",
+      "routePassBy": "Tikur Anbessa",
+      "routeDestination": "Merkato",
+      "routeKilometers": "13.3 Km",
+      "stops": [
+          {
+              "name": "C.M.C Michael",
+              "lat": 9.0418,
+              "lng": 38.8312,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Tikur Anbessa",
+              "lat": 9.028,
+              "lng": 38.759,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "75",
+      "routeStart": "6 Kilo",
+      "routePassBy": "Kazanchiz",
+      "routeDestination": "Kera",
+      "routeKilometers": "10.4 Km",
+      "stops": [
+          {
+              "name": "6 Kilo",
+              "lat": 9.0428,
+              "lng": 38.7618,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Kazanchiz",
+              "lat": 9.0205,
+              "lng": 38.7614,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Kera",
+              "lat": 9.0172,
+              "lng": 38.7825,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "76",
+      "routeStart": "Megenagna",
+      "routePassBy": "Zerihun bulding",
+      "routeDestination": "Kaliti",
+      "routeKilometers": "18.4 Km",
+      "stops": [
+          {
+              "name": "Megenagna",
+              "lat": 9.0336,
+              "lng": 38.8016,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Zerihun bulding",
+              "lat": 9.0205,
+              "lng": 38.7614,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Kaliti",
+              "lat": 8.914,
+              "lng": 38.7912,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "77",
+      "routeStart": "Ayertena",
+      "routePassBy": "Sar bet",
+      "routeDestination": "Kera",
+      "routeKilometers": "13 Km",
+      "stops": [
+          {
+              "name": "Ayertena",
+              "lat": 8.9936,
+              "lng": 38.7315,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Sar bet",
+              "lat": 9.0047,
+              "lng": 38.7464,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Kera",
+              "lat": 9.0172,
+              "lng": 38.7825,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "78",
+      "routeStart": "Megenagna",
+      "routePassBy": "Bherawi",
+      "routeDestination": "Gofa Condo",
+      "routeKilometers": "12.4 Km",
+      "stops": [
+          {
+              "name": "Megenagna",
+              "lat": 9.0336,
+              "lng": 38.8016,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Bherawi",
+              "lat": 9.0205,
+              "lng": 38.7614,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Gofa Condo",
+              "lat": 8.9965,
+              "lng": 38.7876,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "79",
+      "routeStart": "4 Kilo",
+      "routePassBy": "Signal",
+      "routeDestination": "Summit",
+      "routeKilometers": "12.7 Km",
+      "stops": [
+          {
+              "name": "4 Kilo",
+              "lat": 9.0428,
+              "lng": 38.7618,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Signal",
+              "lat": 9.028,
+              "lng": 38.759,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Summit",
+              "lat": 9.0478,
+              "lng": 38.8226,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "80",
+      "routeStart": "Semen Gebeya",
+      "routePassBy": "Kazanchiz",
+      "routeDestination": "Megenagna",
+      "routeKilometers": "12.4 Km",
+      "stops": [
+          {
+              "name": "Semen Gebeya",
+              "lat": 9.0047,
+              "lng": 38.7464,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Kazanchiz",
+              "lat": 9.0205,
+              "lng": 38.7614,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Megenagna",
+              "lat": 9.0336,
+              "lng": 38.8016,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "81",
+      "routeStart": "SANSUSI",
+      "routePassBy": "PIYYSA",
+      "routeDestination": "MEGENAGNA",
+      "routeKilometers": "13 Km",
+      "stops": [
+          {
+              "name": "SANSUSI",
+              "lat": 9.0312,
+              "lng": 38.7234,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "PIYYSA",
+              "lat": 9.0367,
+              "lng": 38.7512,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "MEGENAGNA",
+              "lat": 9.0336,
+              "lng": 38.8016,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "82",
+      "routeStart": "Sefera Goro",
+      "routePassBy": "24 kebele",
+      "routeDestination": "Balcha Hospital",
+      "routeKilometers": "14.6 Km",
+      "stops": [
+          {
+              "name": "Sefera Goro",
+              "lat": 8.9748,
+              "lng": 38.7912,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "24 kebele",
+              "lat": 9.0047,
+              "lng": 38.7464,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Balcha Hospital",
+              "lat": 9.0205,
+              "lng": 38.7614,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "83",
+      "routeStart": "Ayat Condominium",
+      "routePassBy": "kebena",
+      "routeDestination": "6 Kilo",
+      "routeKilometers": "18 Km",
+      "stops": [
+          {
+              "name": "Ayat Condominium",
+              "lat": 9.0478,
+              "lng": 38.8526,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "kebena",
+              "lat": 9.0428,
+              "lng": 38.7618,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "6 Kilo",
+              "lat": 9.0428,
+              "lng": 38.7618,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "84",
+      "routeStart": "Kolfe",
+      "routePassBy": "Amanuel",
+      "routeDestination": "Legehar",
+      "routeKilometers": "9.5 Km",
+      "stops": [
+          {
+              "name": "Kolfe",
+              "lat": 9.0312,
+              "lng": 38.7234,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Amanuel",
+              "lat": 9.028,
+              "lng": 38.759,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Legehar",
+              "lat": 9.0137,
+              "lng": 38.7516,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "85",
+      "routeStart": "Merkato",
+      "routePassBy": "18 Mazoria",
+      "routeDestination": "Holeta",
+      "routeKilometers": "45 Km",
+      "stops": [
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "18 Mazoria",
+              "lat": 9.0141,
+              "lng": 38.7422,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Holeta",
+              "lat": 9.0667,
+              "lng": 38.5,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "86",
+      "routeStart": "Ayertena",
+      "routePassBy": "Mebrat Hail",
+      "routeDestination": "Korki Fabrica",
+      "routeKilometers": "12.3 Km",
+      "stops": [
+          {
+              "name": "Ayertena",
+              "lat": 8.9936,
+              "lng": 38.7315,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Mebrat Hail",
+              "lat": 9.0047,
+              "lng": 38.7464,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Korki Fabrica",
+              "lat": 9.0172,
+              "lng": 38.7825,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "87",
+      "routeStart": "Wingate college",
+      "routePassBy": "Ketena 2",
+      "routeDestination": "Ayertena",
+      "routeKilometers": "10.5 Km",
+      "stops": [
+          {
+              "name": "Wingate college",
+              "lat": 9.0312,
+              "lng": 38.7234,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Ketena 2",
+              "lat": 9.0141,
+              "lng": 38.7422,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Ayertena",
+              "lat": 8.9936,
+              "lng": 38.7315,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "88",
+      "routeStart": "ADDIS KETEMA",
+      "routePassBy": "Piazza",
+      "routeDestination": "Chancho",
+      "routeKilometers": "40 Km",
+      "stops": [
+          {
+              "name": "ADDIS KETEMA",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Piazza",
+              "lat": 9.0367,
+              "lng": 38.7512,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Chancho",
+              "lat": 9.3167,
+              "lng": 38.7333,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "89",
+      "routeStart": "ADDIS KETEMA",
+      "routePassBy": "4 Kilo",
+      "routeDestination": "Sendafa",
+      "routeKilometers": "44 Km",
+      "stops": [
+          {
+              "name": "ADDIS KETEMA",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "4 Kilo",
+              "lat": 9.0428,
+              "lng": 38.7618,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Sendafa",
+              "lat": 9.15,
+              "lng": 39.0167,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "90",
+      "routeStart": "Betel Hospital",
+      "routePassBy": "Torhailoch",
+      "routeDestination": "Legehar",
+      "routeKilometers": "10 Km",
+      "stops": [
+          {
+              "name": "Betel Hospital",
+              "lat": 8.9936,
+              "lng": 38.7315,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Torhailoch",
+              "lat": 9.0047,
+              "lng": 38.7464,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Legehar",
+              "lat": 9.0137,
+              "lng": 38.7516,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "91",
+      "routeStart": "Merkato",
+      "routePassBy": "Torhailoch",
+      "routeDestination": "Teji",
+      "routeKilometers": "52 Km",
+      "stops": [
+          {
+              "name": "Merkato",
+              "lat": 9.0384,
+              "lng": 38.7476,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Torhailoch",
+              "lat": 9.0047,
+              "lng": 38.7464,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Teji",
+              "lat": 8.8,
+              "lng": 38.3667,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "92",
+      "routeStart": "Hanamariam",
+      "routePassBy": "Sar bet",
+      "routeDestination": "Balcha Hospital",
+      "routeKilometers": "9.6 Km",
+      "stops": [
+          {
+              "name": "Hanamariam",
+              "lat": 8.9748,
+              "lng": 38.7912,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Sar bet",
+              "lat": 9.0047,
+              "lng": 38.7464,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Balcha Hospital",
+              "lat": 9.0205,
+              "lng": 38.7614,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "93",
+      "routeStart": "Bole Bulbula",
+      "routePassBy": "Bole Airport",
+      "routeDestination": "Megenagna",
+      "routeKilometers": "15.2 Km",
+      "stops": [
+          {
+              "name": "Bole Bulbula",
+              "lat": 8.9748,
+              "lng": 38.7912,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Bole Airport",
+              "lat": 8.9778,
+              "lng": 38.7967,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Megenagna",
+              "lat": 9.0336,
+              "lng": 38.8016,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
+  },
+  {
+      "busNumber": "94",
+      "routeStart": "Piazza",
+      "routePassBy": "Pawlos",
+      "routeDestination": "Mekililand Birchko Fabrica",
+      "routeKilometers": "9.9 Km",
+      "stops": [
+          {
+              "name": "Piazza",
+              "lat": 9.0367,
+              "lng": 38.7512,
+              "facilities": [
+                  "Restroom",
+                  "Ticket Kiosk",
+                  "Seating"
+              ],
+              "operationalTimes": "6:00 AM - 10:00 PM",
+              "type": "Major Terminal"
+          },
+          {
+              "name": "Pawlos",
+              "lat": 9.034,
+              "lng": 38.7376,
+              "facilities": [
+                  "Seating",
+                  "Shelter"
+              ],
+              "operationalTimes": "6:30 AM - 9:30 PM",
+              "type": "Intermediate Stop"
+          },
+          {
+              "name": "Mekililand Birchko Fabrica",
+              "lat": 9.0172,
+              "lng": 38.7825,
+              "facilities": [],
+              "operationalTimes": "7:00 AM - 9:00 PM",
+              "type": "Minor Station"
+          }
+      ]
   }
 ]

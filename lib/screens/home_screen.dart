@@ -10,15 +10,29 @@ class HomeScreen extends StatefulWidget {
   _HomeScreenState createState() => _HomeScreenState();
 }
 
-class _HomeScreenState extends State<HomeScreen> {
+class _HomeScreenState extends State<HomeScreen>
+    with SingleTickerProviderStateMixin {
   List<BusRoute> busRoutes = [];
   bool isLoading = true;
   String errorMessage = '';
+  late AnimationController _controller;
+  late Animation<Color?> _colorAnimation;
 
   @override
   void initState() {
     super.initState();
     _loadBusRoutes();
+
+    // Initialize animation controller for animated header
+    _controller = AnimationController(
+      duration: const Duration(seconds: 3),
+      vsync: this,
+    )..repeat(reverse: true);
+
+    _colorAnimation = ColorTween(
+      begin: Colors.red[700],
+      end: Colors.red[400],
+    ).animate(_controller);
   }
 
   Future<void> _loadBusRoutes() async {
@@ -37,11 +51,42 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 
   @override
+  void dispose() {
+    _controller.dispose();
+    super.dispose();
+  }
+
+  @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('Anbessa Bus Routes'),
-        backgroundColor: Colors.red[700],
+      appBar: PreferredSize(
+        preferredSize: const Size.fromHeight(60),
+        child: AnimatedBuilder(
+          animation: _colorAnimation,
+          builder: (context, child) {
+            return AppBar(
+              title: Row(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  Image.asset(
+                    'assets/anbessa_bus_logo.png', 
+                    height: 40,
+                  ),
+                  const SizedBox(width: 10),
+                  const Text('Anbessa Bus Routes'),
+                ],
+              ),
+              backgroundColor: _colorAnimation.value,
+              foregroundColor: Colors.white,
+              centerTitle: true,
+              titleTextStyle: const TextStyle(
+                color: Colors.white,
+                fontSize: 20,
+                fontWeight: FontWeight.bold,
+              ),
+            );
+          },
+        ),
       ),
       body: isLoading
           ? const Center(child: CircularProgressIndicator())

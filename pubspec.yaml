@@ -23,4 +23,5 @@ flutter:
   uses-material-design: true
   assets:
     - assets/bus_routes.json
+    - assets/anbessa_bus_logo.png
 
