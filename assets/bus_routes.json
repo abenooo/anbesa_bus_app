@@ -1,5 +1,416 @@
 [
     {
+        "busType": "Erso",
+        "busNumber": "A18",
+        "routeStart": "Jemmo 2",
+        "routePassBy": "Mexico",
+        "routeDestination": "Piassa",
+        "routeKilometers": "13.9 Km",
+        "stops": [
+            {
+                "name": "Jemmo 2",
+                "lat": 8.9605732,
+                "lng": 38.6878636,
+                "facilities": [
+                    "Restroom",
+                    "Ticket Kiosk",
+                    "Seating"
+                ],
+                "operationalTimes": "6:00 AM - 10:00 PM",
+                "type": "Major Terminal"
+            },
+            {
+                "name": "Jemmo 3",
+                "lat": 8.9556244,
+                "lng": 38.6985348,
+                "facilities": [
+                    "Seating",
+                    "Shelter"
+                ],
+                "operationalTimes": "6:30 AM - 9:30 PM",
+                "type": "Intermediate Stop"
+            },
+            {
+                "name": "Jemmo 1",
+                "lat": 8.9604074,
+                "lng": 38.7124284,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Jemo Michael",
+                "lat": 8.9669960,
+                "lng": 38.7209392,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "German Square",
+                "lat": 8.9655968,
+                "lng": 38.7328970,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Mekanisa",
+                "lat": 8.9733512,
+                "lng": 38.7315967,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Abo Mazoria",
+                "lat": 8.9820586,
+                "lng": 38.7345326,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Sar Bet",
+                "lat": 8.9929589,
+                "lng": 38.7383590,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Mexico",
+                "lat": 9.0088714,
+                "lng": 38.7440208,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Mexico Shebelle Hotel",
+                "lat": 9.0119916,
+                "lng": 38.7468862,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "National Theatre",
+                "lat": 9.0158768,
+                "lng": 38.7515920,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Black Lion",
+                "lat": 9.0218352,
+                "lng": 38.7521859,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Tewodros Square",
+                "lat": 9.0263826,
+                "lng": 38.7517909,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Piassa (Downtown Cafe)",
+                "lat": 9.0319356,
+                "lng": 38.7512565,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Piassa Arada",
+                "lat": 9.0354239,
+                "lng": 38.7523326,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            }
+        ]
+    },
+    {
+        "busType": "Taxi",
+        "busNumber": "A18",
+        "routeStart": "Jemmo 2",
+        "routePassBy": "Mexico",
+        "routeDestination": "Piassa",
+        "routeKilometers": "13.9 Km",
+        "stops": [
+            {
+                "name": "Jemmo 2",
+                "lat": 8.9605732,
+                "lng": 38.6878636,
+                "facilities": [
+                    "Restroom",
+                    "Ticket Kiosk",
+                    "Seating"
+                ],
+                "operationalTimes": "6:00 AM - 10:00 PM",
+                "type": "Major Terminal"
+            },
+            {
+                "name": "Jemmo 3",
+                "lat": 8.9556244,
+                "lng": 38.6985348,
+                "facilities": [
+                    "Seating",
+                    "Shelter"
+                ],
+                "operationalTimes": "6:30 AM - 9:30 PM",
+                "type": "Intermediate Stop"
+            },
+            {
+                "name": "Jemmo 1",
+                "lat": 8.9604074,
+                "lng": 38.7124284,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Jemo Michael",
+                "lat": 8.9669960,
+                "lng": 38.7209392,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "German Square",
+                "lat": 8.9655968,
+                "lng": 38.7328970,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Mekanisa",
+                "lat": 8.9733512,
+                "lng": 38.7315967,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Abo Mazoria",
+                "lat": 8.9820586,
+                "lng": 38.7345326,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Sar Bet",
+                "lat": 8.9929589,
+                "lng": 38.7383590,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Mexico",
+                "lat": 9.0088714,
+                "lng": 38.7440208,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Mexico Shebelle Hotel",
+                "lat": 9.0119916,
+                "lng": 38.7468862,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "National Theatre",
+                "lat": 9.0158768,
+                "lng": 38.7515920,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Black Lion",
+                "lat": 9.0218352,
+                "lng": 38.7521859,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Tewodros Square",
+                "lat": 9.0263826,
+                "lng": 38.7517909,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Piassa (Downtown Cafe)",
+                "lat": 9.0319356,
+                "lng": 38.7512565,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Piassa Arada",
+                "lat": 9.0354239,
+                "lng": 38.7523326,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            }
+        ]
+    },
+    {
+        "busType": "Codex",
+        "busNumber": "A18",
+        "routeStart": "Jemmo 2",
+        "routePassBy": "Mexico",
+        "routeDestination": "Piassa",
+        "routeKilometers": "13.9 Km",
+        "stops": [
+            {
+                "name": "Jemmo 2",
+                "lat": 8.9605732,
+                "lng": 38.6878636,
+                "facilities": [
+                    "Restroom",
+                    "Ticket Kiosk",
+                    "Seating"
+                ],
+                "operationalTimes": "6:00 AM - 10:00 PM",
+                "type": "Major Terminal"
+            },
+            {
+                "name": "Jemmo 3",
+                "lat": 8.9556244,
+                "lng": 38.6985348,
+                "facilities": [
+                    "Seating",
+                    "Shelter"
+                ],
+                "operationalTimes": "6:30 AM - 9:30 PM",
+                "type": "Intermediate Stop"
+            },
+            {
+                "name": "Jemmo 1",
+                "lat": 8.9604074,
+                "lng": 38.7124284,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Jemo Michael",
+                "lat": 8.9669960,
+                "lng": 38.7209392,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "German Square",
+                "lat": 8.9655968,
+                "lng": 38.7328970,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Mekanisa",
+                "lat": 8.9733512,
+                "lng": 38.7315967,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Abo Mazoria",
+                "lat": 8.9820586,
+                "lng": 38.7345326,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Sar Bet",
+                "lat": 8.9929589,
+                "lng": 38.7383590,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Mexico",
+                "lat": 9.0088714,
+                "lng": 38.7440208,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Mexico Shebelle Hotel",
+                "lat": 9.0119916,
+                "lng": 38.7468862,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "National Theatre",
+                "lat": 9.0158768,
+                "lng": 38.7515920,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Black Lion",
+                "lat": 9.0218352,
+                "lng": 38.7521859,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Tewodros Square",
+                "lat": 9.0263826,
+                "lng": 38.7517909,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Piassa (Downtown Cafe)",
+                "lat": 9.0319356,
+                "lng": 38.7512565,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            },
+            {
+                "name": "Piassa Arada",
+                "lat": 9.0354239,
+                "lng": 38.7523326,
+                "facilities": [],
+                "operationalTimes": "7:00 AM - 9:00 PM",
+                "type": "Minor Station"
+            }
+        ]
+    },
+    {
         "busType": "Sheger",
         "busNumber": "A18",
         "routeStart": "Jemmo 2",
